@@ -1,5 +1,5 @@
 # ChainMind
-A self-training AI that digests Web3 videos and becomes a blockchain oracle.
+A self-training AI Tutornthat digests Web3 videos and becomes a blockchain oracle.
 
 ChainMind is a conversational AI Agent focused on **blockchain game development**. It uses a **RAG (Retrieval-Augmented Generation) pipeline** to answer questions based on video transcripts or documents stored in Pinecone, and provides a sleek, interactive UI via Gradio.
 
@@ -14,7 +14,7 @@ ChainMind is a conversational AI Agent focused on **blockchain game development*
 
 ---
 
-## Installation
+## 🔧 Setup Instructions
 
 Follow these steps to set up and run ChainMind locally:
 
@@ -35,8 +35,13 @@ source venv/bin/activate
 ### 4. Add your API keys
 Create a `.env` file in the project root with the variables mentioned in `.env.example`
 
-### 5. Run the chatbot
-`python app/gradio_app.py`
+### 5. Offline Pipeline
+Run the `notebooks/main_phase_1_data.ipynb` (✔ loads youtube videos - ✔ cleans )
+Run the `notebooks/main_phase_2_rag.ipynb`(✔ Chunks - Embeds - Upsert to Pinecone ✔ Produces rag_dataset.json)
+Run the `notebooks/main_phase_3_QA.ipynb` (✔ Tests RAG pipeline ✔ Tests agent logic ✔ Verifies follow-up memory behavior)
+
+### 6. Run the Chatbot
+`python app/gradio_app2.py`
 
 The app will open locally at http://127.0.0.1:7860
 
@@ -54,3 +59,20 @@ You will also get a public shareable link via Gradio
   - Chatbot component for conversations
   - Custom CSS for dark theme and floating blobs
   - JavaScript for dynamic background and key handling (Enter/Shift+Enter)
+
+---
+---
+
+## 📌 Next Steps (Future Enhancements)
+
+- Add multimodal support (images - video frames - audio)
+
+- Improve memory architecture (vector-based memory)
+
+- Add guardrails & hallucination detection
+
+- Deploy on AWS/GCP with HTTPS + scaling
+
+- Improve UI styling (animations, themes, branding)
+
+- Add user authentication for personalized history
