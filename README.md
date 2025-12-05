@@ -11,6 +11,7 @@ ChainMind is a conversational AI Agent focused on **blockchain game development*
 - Embeddings via OpenAI (text-embedding-3-small)
 - Chat interface built with Gradio (modern chat UI with dark theme)
 - Maintains conversation memory across chat
+- Agent chooses between RAG, memory, and internet search (SerpAPI) based on logic
 
 ---
 
@@ -62,6 +63,13 @@ You will also get a public shareable link via Gradio
   - Chatbot component for conversations
   - Custom CSS for dark theme and floating blobs
   - JavaScript for dynamic background and key handling (Enter/Shift+Enter)
+
+---
+
+## Architectural Diagram
+
+![My Diagram](assets/diagram.png)
+
 
 ---
 ---
