@@ -176,6 +176,6 @@ def agent_with_search(query, rag_answer):
         )
 
         final = refined.choices[0].message.content
-        return final, "SEARCH"
+        return final, "AGENT"
 
     return rag_answer, "FALLBACK"
