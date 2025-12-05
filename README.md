@@ -53,8 +53,11 @@ You will also get a public shareable link via Gradio
 
 - **Vector Store:** Pinecone stores text chunks as vectors for semantic retrieval
 - **Embeddings:** OpenAI `text-embedding-3-small`
-- **LLM:** ChatOpenAI GPT-3.5-turbo for natural language responses
+- **LLM:** ChatOpenAI `GPT-3.5-turbo` for natural language responses
+- **Agent** Agent `gpt-4o-mini`
+- **Tools** SerpAPI live Google results
 - **Prompting:** Uses `ChatPromptTemplate` with retrieved context and conversation history
+- **Memory** Custom | 5 last QA entries stored as conversational context
 - **Frontend:** Gradio Blocks
   - Chatbot component for conversations
   - Custom CSS for dark theme and floating blobs
@@ -63,7 +66,7 @@ You will also get a public shareable link via Gradio
 ---
 ---
 
-## 📌 Next Steps (Future Enhancements)
+## 📌 Next Steps (Future Enhancements for v2)
 
 - Add multimodal support (images - video frames - audio)
 
