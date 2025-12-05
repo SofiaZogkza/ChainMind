@@ -68,7 +68,10 @@ You will also get a public shareable link via Gradio
 
 ## Architectural Diagram
 
-![My Diagram](assets/diagram.png)
+
+
+<img src="assets/diagram.png" width="600" />
+
 
 
 ---
