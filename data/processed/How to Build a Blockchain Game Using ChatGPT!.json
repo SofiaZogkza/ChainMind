@@ -1,0 +1,1357 @@
+[
+  {
+    "start_time": "00:00:02.210",
+    "end_time": "00:00:02.220",
+    "text": "while AI continues to write code for us"
+  },
+  {
+    "start_time": "00:00:02.220",
+    "end_time": "00:00:04.610",
+    "text": "I am going to explain for you guys"
+  },
+  {
+    "start_time": "00:00:04.620",
+    "end_time": "00:00:08.290",
+    "text": "exactly how to create a blockchain game"
+  },
+  {
+    "start_time": "00:00:08.300",
+    "end_time": "00:00:12.890",
+    "text": "using AI with no coding experience the"
+  },
+  {
+    "start_time": "00:00:12.900",
+    "end_time": "00:00:14.810",
+    "text": "power of artificial intelligence blows"
+  },
+  {
+    "start_time": "00:00:14.820",
+    "end_time": "00:00:18.410",
+    "text": "my mind more and more every day and when"
+  },
+  {
+    "start_time": "00:00:18.420",
+    "end_time": "00:00:22.670",
+    "text": "I realized I could actually do this oh"
+  },
+  {
+    "start_time": "00:00:22.680",
+    "end_time": "00:00:25.189",
+    "text": "my gosh let's just say I've had many"
+  },
+  {
+    "start_time": "00:00:25.199",
+    "end_time": "00:00:27.769",
+    "text": "existential crisis in a row but we can't"
+  },
+  {
+    "start_time": "00:00:27.779",
+    "end_time": "00:00:29.750",
+    "text": "let ourselves get scared or overwhelmed"
+  },
+  {
+    "start_time": "00:00:29.760",
+    "end_time": "00:00:32.389",
+    "text": "by AI we need to use the next couple of"
+  },
+  {
+    "start_time": "00:00:32.399",
+    "end_time": "00:00:34.310",
+    "text": "years while we're still a little bit"
+  },
+  {
+    "start_time": "00:00:34.320",
+    "end_time": "00:00:38.030",
+    "text": "smarter to try and get AI to do as much"
+  },
+  {
+    "start_time": "00:00:38.040",
+    "end_time": "00:00:40.430",
+    "text": "for us and increase our productivity as"
+  },
+  {
+    "start_time": "00:00:40.440",
+    "end_time": "00:00:44.209",
+    "text": "we can so without further Ado uh if this"
+  },
+  {
+    "start_time": "00:00:44.219",
+    "end_time": "00:00:45.350",
+    "text": "sounds good to remember to drop a big"
+  },
+  {
+    "start_time": "00:00:45.360",
+    "end_time": "00:00:46.910",
+    "text": "thumbs up hit subscribe if you have not"
+  },
+  {
+    "start_time": "00:00:46.920",
+    "end_time": "00:00:50.330",
+    "text": "subscribed already uh let's get into it"
+  },
+  {
+    "start_time": "00:00:50.340",
+    "end_time": "00:00:51.830",
+    "text": "really quickly so that you guys"
+  },
+  {
+    "start_time": "00:00:51.840",
+    "end_time": "00:00:54.650",
+    "text": "understand the power of chat GPT look"
+  },
+  {
+    "start_time": "00:00:54.660",
+    "end_time": "00:00:57.290",
+    "text": "and see how it made a game from scratch"
+  },
+  {
+    "start_time": "00:00:57.300",
+    "end_time": "00:00:59.750",
+    "text": "both designed it and coded it and it"
+  },
+  {
+    "start_time": "00:00:59.760",
+    "end_time": "00:01:01.790",
+    "text": "worked give me a super detailed"
+  },
+  {
+    "start_time": "00:01:01.800",
+    "end_time": "00:01:04.250",
+    "text": "description of an action game that can"
+  },
+  {
+    "start_time": "00:01:04.260",
+    "end_time": "00:01:08.270",
+    "text": "be coded in 150 lines or less it's"
+  },
+  {
+    "start_time": "00:01:08.280",
+    "end_time": "00:01:10.730",
+    "text": "called orbital strike so now let's get"
+  },
+  {
+    "start_time": "00:01:10.740",
+    "end_time": "00:01:13.190",
+    "text": "it to actually write the code for us"
+  },
+  {
+    "start_time": "00:01:13.200",
+    "end_time": "00:01:15.170",
+    "text": "this is just showing you guys like if"
+  },
+  {
+    "start_time": "00:01:15.180",
+    "end_time": "00:01:17.929",
+    "text": "this doesn't blow your mind right here"
+  },
+  {
+    "start_time": "00:01:17.939",
+    "end_time": "00:01:20.090",
+    "text": "then I don't know what will blow your"
+  },
+  {
+    "start_time": "00:01:20.100",
+    "end_time": "00:01:22.730",
+    "text": "mind we are going to try and run this"
+  },
+  {
+    "start_time": "00:01:22.740",
+    "end_time": "00:01:26.990",
+    "text": "game and see what an AI just created for"
+  },
+  {
+    "start_time": "00:01:27.000",
+    "end_time": "00:01:30.109",
+    "text": "us oh here we go we're in the game oh my"
+  },
+  {
+    "start_time": "00:01:30.119",
+    "end_time": "00:01:32.149",
+    "text": "gosh I'm clicking the shoe I'm aiming"
+  },
+  {
+    "start_time": "00:01:32.159",
+    "end_time": "00:01:33.530",
+    "text": "with my mouse"
+  },
+  {
+    "start_time": "00:01:33.540",
+    "end_time": "00:01:35.929",
+    "text": "this is freaking epic it's giving me"
+  },
+  {
+    "start_time": "00:01:35.939",
+    "end_time": "00:01:38.569",
+    "text": "scores when I kill these oh I just lost"
+  },
+  {
+    "start_time": "00:01:38.579",
+    "end_time": "00:01:43.130",
+    "text": "a life actually"
+  },
+  {
+    "start_time": "00:01:45.770",
+    "end_time": "00:01:45.780",
+    "text": "yes now that your guys's Minds have"
+  },
+  {
+    "start_time": "00:01:45.780",
+    "end_time": "00:01:48.590",
+    "text": "probably been blown let's go"
+  },
+  {
+    "start_time": "00:01:48.600",
+    "end_time": "00:01:50.929",
+    "text": "specifically into the topic of this"
+  },
+  {
+    "start_time": "00:01:50.939",
+    "end_time": "00:01:53.630",
+    "text": "video so the very first thing that I"
+  },
+  {
+    "start_time": "00:01:53.640",
+    "end_time": "00:01:56.090",
+    "text": "asked gbt for was are you able to code a"
+  },
+  {
+    "start_time": "00:01:56.100",
+    "end_time": "00:01:57.170",
+    "text": "game that can write simple smart"
+  },
+  {
+    "start_time": "00:01:57.180",
+    "end_time": "00:01:59.389",
+    "text": "contracts sign wallets and interact with"
+  },
+  {
+    "start_time": "00:01:59.399",
+    "end_time": "00:02:01.550",
+    "text": "blockchains like ethereum if you can"
+  },
+  {
+    "start_time": "00:02:01.560",
+    "end_time": "00:02:03.289",
+    "text": "explain the steps that would be"
+  },
+  {
+    "start_time": "00:02:03.299",
+    "end_time": "00:02:05.690",
+    "text": "necessary to create a simple pong game"
+  },
+  {
+    "start_time": "00:02:05.700",
+    "end_time": "00:02:08.809",
+    "text": "requiring an nft to play that must be"
+  },
+  {
+    "start_time": "00:02:08.819",
+    "end_time": "00:02:11.330",
+    "text": "wagered through a smart contract to"
+  },
+  {
+    "start_time": "00:02:11.340",
+    "end_time": "00:02:12.770",
+    "text": "enter a game with the winner"
+  },
+  {
+    "start_time": "00:02:12.780",
+    "end_time": "00:02:14.630",
+    "text": "automatically getting the other players"
+  },
+  {
+    "start_time": "00:02:14.640",
+    "end_time": "00:02:17.210",
+    "text": "nft so essentially I'm asking it create"
+  },
+  {
+    "start_time": "00:02:17.220",
+    "end_time": "00:02:19.309",
+    "text": "a step-by-step guide for me exactly what"
+  },
+  {
+    "start_time": "00:02:19.319",
+    "end_time": "00:02:20.869",
+    "text": "I need to do walk me through it like a"
+  },
+  {
+    "start_time": "00:02:20.879",
+    "end_time": "00:02:23.330",
+    "text": "baby on how to create a very simple game"
+  },
+  {
+    "start_time": "00:02:23.340",
+    "end_time": "00:02:24.410",
+    "text": "because we're going to start simple"
+  },
+  {
+    "start_time": "00:02:24.420",
+    "end_time": "00:02:26.690",
+    "text": "where in order to play you have to have"
+  },
+  {
+    "start_time": "00:02:26.700",
+    "end_time": "00:02:28.130",
+    "text": "an nft"
+  },
+  {
+    "start_time": "00:02:28.140",
+    "end_time": "00:02:29.930",
+    "text": "um which hopefully has been given away"
+  },
+  {
+    "start_time": "00:02:29.940",
+    "end_time": "00:02:31.729",
+    "text": "to everyone for free you have to have an"
+  },
+  {
+    "start_time": "00:02:31.739",
+    "end_time": "00:02:33.890",
+    "text": "nft and then you play and whoever wins"
+  },
+  {
+    "start_time": "00:02:33.900",
+    "end_time": "00:02:35.449",
+    "text": "because you entered a smart contract to"
+  },
+  {
+    "start_time": "00:02:35.459",
+    "end_time": "00:02:37.910",
+    "text": "play gets the other person's nft just a"
+  },
+  {
+    "start_time": "00:02:37.920",
+    "end_time": "00:02:40.970",
+    "text": "straight uh Winner Takes all simple"
+  },
+  {
+    "start_time": "00:02:40.980",
+    "end_time": "00:02:43.070",
+    "text": "Style game and this is what it said it's"
+  },
+  {
+    "start_time": "00:02:43.080",
+    "end_time": "00:02:44.449",
+    "text": "said okay well this is what you're gonna"
+  },
+  {
+    "start_time": "00:02:44.459",
+    "end_time": "00:02:45.949",
+    "text": "have to do first learn the basics all"
+  },
+  {
+    "start_time": "00:02:45.959",
+    "end_time": "00:02:47.390",
+    "text": "right I got that down if you guys don't"
+  },
+  {
+    "start_time": "00:02:47.400",
+    "end_time": "00:02:48.589",
+    "text": "know the basics you can watch through my"
+  },
+  {
+    "start_time": "00:02:48.599",
+    "end_time": "00:02:50.809",
+    "text": "whole video library uh but honestly you"
+  },
+  {
+    "start_time": "00:02:50.819",
+    "end_time": "00:02:52.070",
+    "text": "can probably even skip this because it's"
+  },
+  {
+    "start_time": "00:02:52.080",
+    "end_time": "00:02:53.030",
+    "text": "going to walk you through everything you"
+  },
+  {
+    "start_time": "00:02:53.040",
+    "end_time": "00:02:54.350",
+    "text": "don't really need to know anything then"
+  },
+  {
+    "start_time": "00:02:54.360",
+    "end_time": "00:02:56.030",
+    "text": "it says set up a development environment"
+  },
+  {
+    "start_time": "00:02:56.040",
+    "end_time": "00:02:58.790",
+    "text": "which it can do for us completely create"
+  },
+  {
+    "start_time": "00:02:58.800",
+    "end_time": "00:03:01.009",
+    "text": "an nft smart contract which it can do"
+  },
+  {
+    "start_time": "00:03:01.019",
+    "end_time": "00:03:03.229",
+    "text": "for us completely create the wagering"
+  },
+  {
+    "start_time": "00:03:03.239",
+    "end_time": "00:03:05.270",
+    "text": "smart contract once again in which it"
+  },
+  {
+    "start_time": "00:03:05.280",
+    "end_time": "00:03:08.089",
+    "text": "can do for us display the uh deploy the"
+  },
+  {
+    "start_time": "00:03:08.099",
+    "end_time": "00:03:09.170",
+    "text": "smart contracts this is where it's"
+  },
+  {
+    "start_time": "00:03:09.180",
+    "end_time": "00:03:10.309",
+    "text": "supposed to get a little bit more"
+  },
+  {
+    "start_time": "00:03:10.319",
+    "end_time": "00:03:12.229",
+    "text": "interesting compile and display uh"
+  },
+  {
+    "start_time": "00:03:12.239",
+    "end_time": "00:03:14.210",
+    "text": "deploy the smart contracts to a local"
+  },
+  {
+    "start_time": "00:03:14.220",
+    "end_time": "00:03:16.550",
+    "text": "test blockchain uh which it has already"
+  },
+  {
+    "start_time": "00:03:16.560",
+    "end_time": "00:03:18.949",
+    "text": "uh helped us to download and walk it"
+  },
+  {
+    "start_time": "00:03:18.959",
+    "end_time": "00:03:20.690",
+    "text": "through with a step-by-step build the"
+  },
+  {
+    "start_time": "00:03:20.700",
+    "end_time": "00:03:22.970",
+    "text": "pawn game you guys already know it can"
+  },
+  {
+    "start_time": "00:03:22.980",
+    "end_time": "00:03:25.309",
+    "text": "do this it could design it and code it"
+  },
+  {
+    "start_time": "00:03:25.319",
+    "end_time": "00:03:27.350",
+    "text": "connect the game uh with the blockchain"
+  },
+  {
+    "start_time": "00:03:27.360",
+    "end_time": "00:03:28.610",
+    "text": "so this is going to require us to"
+  },
+  {
+    "start_time": "00:03:28.620",
+    "end_time": "00:03:30.949",
+    "text": "implement the front encode to interact"
+  },
+  {
+    "start_time": "00:03:30.959",
+    "end_time": "00:03:33.589",
+    "text": "with the ethereum blockchain this should"
+  },
+  {
+    "start_time": "00:03:33.599",
+    "end_time": "00:03:35.449",
+    "text": "include functions to authenticate users"
+  },
+  {
+    "start_time": "00:03:35.459",
+    "end_time": "00:03:37.910",
+    "text": "query the nfts deposit nfts into the"
+  },
+  {
+    "start_time": "00:03:37.920",
+    "end_time": "00:03:40.130",
+    "text": "wagering smart contract and withdraw the"
+  },
+  {
+    "start_time": "00:03:40.140",
+    "end_time": "00:03:41.930",
+    "text": "winning so once again it already knows"
+  },
+  {
+    "start_time": "00:03:41.940",
+    "end_time": "00:03:43.910",
+    "text": "everything it needs to do and we'll do"
+  },
+  {
+    "start_time": "00:03:43.920",
+    "end_time": "00:03:47.089",
+    "text": "this for us and then also we have uh I"
+  },
+  {
+    "start_time": "00:03:47.099",
+    "end_time": "00:03:48.530",
+    "text": "have to create a user interface for"
+  },
+  {
+    "start_time": "00:03:48.540",
+    "end_time": "00:03:50.990",
+    "text": "wallet interaction test the game to play"
+  },
+  {
+    "start_time": "00:03:51.000",
+    "end_time": "00:03:53.270",
+    "text": "the game and then finally promote the"
+  },
+  {
+    "start_time": "00:03:53.280",
+    "end_time": "00:03:54.949",
+    "text": "game but there you guys go and like"
+  },
+  {
+    "start_time": "00:03:54.959",
+    "end_time": "00:03:56.570",
+    "text": "literally if you remove some of these"
+  },
+  {
+    "start_time": "00:03:56.580",
+    "end_time": "00:03:58.070",
+    "text": "pointless ones like maybe promoting the"
+  },
+  {
+    "start_time": "00:03:58.080",
+    "end_time": "00:03:59.809",
+    "text": "game and learning the basics here uh"
+  },
+  {
+    "start_time": "00:03:59.819",
+    "end_time": "00:04:02.210",
+    "text": "this is a nine step process to create an"
+  },
+  {
+    "start_time": "00:04:02.220",
+    "end_time": "00:04:05.270",
+    "text": "nft game uh absolutely crazy imagine"
+  },
+  {
+    "start_time": "00:04:05.280",
+    "end_time": "00:04:07.970",
+    "text": "that this existed if AI existed during"
+  },
+  {
+    "start_time": "00:04:07.980",
+    "end_time": "00:04:09.770",
+    "text": "the last crypto bull market how many"
+  },
+  {
+    "start_time": "00:04:09.780",
+    "end_time": "00:04:12.110",
+    "text": "more crappy crypto games you've had if"
+  },
+  {
+    "start_time": "00:04:12.120",
+    "end_time": "00:04:14.449",
+    "text": "you guys are watching this please use"
+  },
+  {
+    "start_time": "00:04:14.459",
+    "end_time": "00:04:16.789",
+    "text": "the power that I am giving you in this"
+  },
+  {
+    "start_time": "00:04:16.799",
+    "end_time": "00:04:19.310",
+    "text": "video to create high quality Projects"
+  },
+  {
+    "start_time": "00:04:19.320",
+    "end_time": "00:04:21.830",
+    "text": "please and also let's change blockchain"
+  },
+  {
+    "start_time": "00:04:21.840",
+    "end_time": "00:04:23.990",
+    "text": "gaming the whole idea of it and give"
+  },
+  {
+    "start_time": "00:04:24.000",
+    "end_time": "00:04:25.670",
+    "text": "away all of the stuff that players own"
+  },
+  {
+    "start_time": "00:04:25.680",
+    "end_time": "00:04:28.490",
+    "text": "for free okay let's do that as well"
+  },
+  {
+    "start_time": "00:04:28.500",
+    "end_time": "00:04:29.990",
+    "text": "um because because we really need a"
+  },
+  {
+    "start_time": "00:04:30.000",
+    "end_time": "00:04:31.010",
+    "text": "change when people think when they think"
+  },
+  {
+    "start_time": "00:04:31.020",
+    "end_time": "00:04:32.270",
+    "text": "of a game connected to the blockchain"
+  },
+  {
+    "start_time": "00:04:32.280",
+    "end_time": "00:04:35.210",
+    "text": "real ownership should not be associated"
+  },
+  {
+    "start_time": "00:04:35.220",
+    "end_time": "00:04:37.370",
+    "text": "with scam but right now it is which is"
+  },
+  {
+    "start_time": "00:04:37.380",
+    "end_time": "00:04:39.530",
+    "text": "really really sad so I told it step one"
+  },
+  {
+    "start_time": "00:04:39.540",
+    "end_time": "00:04:41.270",
+    "text": "complete uh which is like I know the"
+  },
+  {
+    "start_time": "00:04:41.280",
+    "end_time": "00:04:43.010",
+    "text": "basics so for step two please give me"
+  },
+  {
+    "start_time": "00:04:43.020",
+    "end_time": "00:04:45.170",
+    "text": "complete list of required applications I"
+  },
+  {
+    "start_time": "00:04:45.180",
+    "end_time": "00:04:47.150",
+    "text": "need to install so it gave me this list"
+  },
+  {
+    "start_time": "00:04:47.160",
+    "end_time": "00:04:48.950",
+    "text": "here uh which was super nice I said"
+  },
+  {
+    "start_time": "00:04:48.960",
+    "end_time": "00:04:50.689",
+    "text": "great now let's set up our full"
+  },
+  {
+    "start_time": "00:04:50.699",
+    "end_time": "00:04:52.129",
+    "text": "development environment which is what"
+  },
+  {
+    "start_time": "00:04:52.139",
+    "end_time": "00:04:54.710",
+    "text": "step two was and here we go"
+  },
+  {
+    "start_time": "00:04:54.720",
+    "end_time": "00:04:56.990",
+    "text": "literally walks us through this sets it"
+  },
+  {
+    "start_time": "00:04:57.000",
+    "end_time": "00:04:59.390",
+    "text": "up for us and it's literally telling us"
+  },
+  {
+    "start_time": "00:04:59.400",
+    "end_time": "00:05:01.969",
+    "text": "like create this file put this file"
+  },
+  {
+    "start_time": "00:05:01.979",
+    "end_time": "00:05:04.249",
+    "text": "inside create this it's like literally"
+  },
+  {
+    "start_time": "00:05:04.259",
+    "end_time": "00:05:06.890",
+    "text": "step by step it's not complicated at all"
+  },
+  {
+    "start_time": "00:05:06.900",
+    "end_time": "00:05:08.629",
+    "text": "you're mostly just copying and pasting"
+  },
+  {
+    "start_time": "00:05:08.639",
+    "end_time": "00:05:10.969",
+    "text": "stuff that's literally it I promise it's"
+  },
+  {
+    "start_time": "00:05:10.979",
+    "end_time": "00:05:12.830",
+    "text": "absolutely crazy"
+  },
+  {
+    "start_time": "00:05:12.840",
+    "end_time": "00:05:14.570",
+    "text": "um and then we're here so now I'm like"
+  },
+  {
+    "start_time": "00:05:14.580",
+    "end_time": "00:05:16.909",
+    "text": "great now let's create the nft smart"
+  },
+  {
+    "start_time": "00:05:16.919",
+    "end_time": "00:05:19.730",
+    "text": "contract write a smart contract using uh"
+  },
+  {
+    "start_time": "00:05:19.740",
+    "end_time": "00:05:22.249",
+    "text": "solidity which is this is literally its"
+  },
+  {
+    "start_time": "00:05:22.259",
+    "end_time": "00:05:24.890",
+    "text": "command it's it's part just pasted back"
+  },
+  {
+    "start_time": "00:05:24.900",
+    "end_time": "00:05:26.629",
+    "text": "to it and it said okay yeah here here"
+  },
+  {
+    "start_time": "00:05:26.639",
+    "end_time": "00:05:29.290",
+    "text": "you go so create a new file name pong"
+  },
+  {
+    "start_time": "00:05:29.300",
+    "end_time": "00:05:31.430",
+    "text": "token.soul inside the contracts folder"
+  },
+  {
+    "start_time": "00:05:31.440",
+    "end_time": "00:05:33.050",
+    "text": "of your truffle project which is what it"
+  },
+  {
+    "start_time": "00:05:33.060",
+    "end_time": "00:05:35.330",
+    "text": "walked us through creating here uh step"
+  },
+  {
+    "start_time": "00:05:35.340",
+    "end_time": "00:05:37.129",
+    "text": "by step just like it's doing here and it"
+  },
+  {
+    "start_time": "00:05:37.139",
+    "end_time": "00:05:39.469",
+    "text": "says first create a file name okay and"
+  },
+  {
+    "start_time": "00:05:39.479",
+    "end_time": "00:05:40.969",
+    "text": "then paste the following code once again"
+  },
+  {
+    "start_time": "00:05:40.979",
+    "end_time": "00:05:42.469",
+    "text": "it's writing everything first you don't"
+  },
+  {
+    "start_time": "00:05:42.479",
+    "end_time": "00:05:44.390",
+    "text": "need to know how to code you don't even"
+  },
+  {
+    "start_time": "00:05:44.400",
+    "end_time": "00:05:46.670",
+    "text": "really need to know how the blockchain"
+  },
+  {
+    "start_time": "00:05:46.680",
+    "end_time": "00:05:48.590",
+    "text": "works or how ethereum works because it"
+  },
+  {
+    "start_time": "00:05:48.600",
+    "end_time": "00:05:50.570",
+    "text": "understands how it works completely as"
+  },
+  {
+    "start_time": "00:05:50.580",
+    "end_time": "00:05:51.890",
+    "text": "an expert"
+  },
+  {
+    "start_time": "00:05:51.900",
+    "end_time": "00:05:53.330",
+    "text": "um and it will perfectly write the"
+  },
+  {
+    "start_time": "00:05:53.340",
+    "end_time": "00:05:54.710",
+    "text": "contracts to interact and if you get"
+  },
+  {
+    "start_time": "00:05:54.720",
+    "end_time": "00:05:56.629",
+    "text": "errors it's also going to error solve"
+  },
+  {
+    "start_time": "00:05:56.639",
+    "end_time": "00:05:58.790",
+    "text": "for you and then it says this contract"
+  },
+  {
+    "start_time": "00:05:58.800",
+    "end_time": "00:06:01.129",
+    "text": "is using the open Zeppelin contracts"
+  },
+  {
+    "start_time": "00:06:01.139",
+    "end_time": "00:06:02.870",
+    "text": "Library which provides pre-built tested"
+  },
+  {
+    "start_time": "00:06:02.880",
+    "end_time": "00:06:05.029",
+    "text": "and secure implementation of common"
+  },
+  {
+    "start_time": "00:06:05.039",
+    "end_time": "00:06:08.510",
+    "text": "token standards including ERC 721 make"
+  },
+  {
+    "start_time": "00:06:08.520",
+    "end_time": "00:06:09.890",
+    "text": "sure to install"
+  },
+  {
+    "start_time": "00:06:09.900",
+    "end_time": "00:06:11.990",
+    "text": "and here we go it's giving us more just"
+  },
+  {
+    "start_time": "00:06:12.000",
+    "end_time": "00:06:13.670",
+    "text": "easy steps to follow and then it says"
+  },
+  {
+    "start_time": "00:06:13.680",
+    "end_time": "00:06:14.749",
+    "text": "once you've created the nft smart"
+  },
+  {
+    "start_time": "00:06:14.759",
+    "end_time": "00:06:16.189",
+    "text": "contract proceed with writing the"
+  },
+  {
+    "start_time": "00:06:16.199",
+    "end_time": "00:06:18.409",
+    "text": "wagering spark contract uh and building"
+  },
+  {
+    "start_time": "00:06:18.419",
+    "end_time": "00:06:21.370",
+    "text": "the pong game so now literally I can say"
+  },
+  {
+    "start_time": "00:06:21.380",
+    "end_time": "00:06:24.350",
+    "text": "please write"
+  },
+  {
+    "start_time": "00:06:24.360",
+    "end_time": "00:06:29.270",
+    "text": "the wagering smart contract for this"
+  },
+  {
+    "start_time": "00:06:29.280",
+    "end_time": "00:06:31.490",
+    "text": "game and just to be safe I'm going to"
+  },
+  {
+    "start_time": "00:06:31.500",
+    "end_time": "00:06:34.249",
+    "text": "say write the complete"
+  },
+  {
+    "start_time": "00:06:34.259",
+    "end_time": "00:06:36.110",
+    "text": "uh when you drink smart contract for"
+  },
+  {
+    "start_time": "00:06:36.120",
+    "end_time": "00:06:37.850",
+    "text": "this game and here we go here's the"
+  },
+  {
+    "start_time": "00:06:37.860",
+    "end_time": "00:06:39.170",
+    "text": "simple example of a wagering smart"
+  },
+  {
+    "start_time": "00:06:39.180",
+    "end_time": "00:06:40.309",
+    "text": "contract for the pong game that"
+  },
+  {
+    "start_time": "00:06:40.319",
+    "end_time": "00:06:41.629",
+    "text": "interacts with the previously created"
+  },
+  {
+    "start_time": "00:06:41.639",
+    "end_time": "00:06:44.629",
+    "text": "pong token nft contract this is like"
+  },
+  {
+    "start_time": "00:06:44.639",
+    "end_time": "00:06:46.670",
+    "text": "this this doesn't"
+  },
+  {
+    "start_time": "00:06:46.680",
+    "end_time": "00:06:50.029",
+    "text": "guys I don't know what will blow your"
+  },
+  {
+    "start_time": "00:06:50.039",
+    "end_time": "00:06:53.090",
+    "text": "mind like this is just absolutely wild"
+  },
+  {
+    "start_time": "00:06:53.100",
+    "end_time": "00:06:54.170",
+    "text": "stuff"
+  },
+  {
+    "start_time": "00:06:54.180",
+    "end_time": "00:06:55.490",
+    "text": "um and here it goes it's just gonna"
+  },
+  {
+    "start_time": "00:06:55.500",
+    "end_time": "00:06:58.550",
+    "text": "continue creating this game for us"
+  },
+  {
+    "start_time": "00:06:58.560",
+    "end_time": "00:07:00.110",
+    "text": "um and yeah we can literally just"
+  },
+  {
+    "start_time": "00:07:00.120",
+    "end_time": "00:07:02.330",
+    "text": "continue going like this"
+  },
+  {
+    "start_time": "00:07:02.340",
+    "end_time": "00:07:04.370",
+    "text": "um we are limited to 25 prompts per"
+  },
+  {
+    "start_time": "00:07:04.380",
+    "end_time": "00:07:05.809",
+    "text": "three hours"
+  },
+  {
+    "start_time": "00:07:05.819",
+    "end_time": "00:07:09.110",
+    "text": "um but we could probably in a day I"
+  },
+  {
+    "start_time": "00:07:09.120",
+    "end_time": "00:07:10.969",
+    "text": "don't know create three or four"
+  },
+  {
+    "start_time": "00:07:10.979",
+    "end_time": "00:07:13.850",
+    "text": "different crypto games literally new"
+  },
+  {
+    "start_time": "00:07:13.860",
+    "end_time": "00:07:18.050",
+    "text": "original crypto games in a day uh with a"
+  },
+  {
+    "start_time": "00:07:18.060",
+    "end_time": "00:07:22.189",
+    "text": "couple uh tpg4 Premium Accounts"
+  },
+  {
+    "start_time": "00:07:22.199",
+    "end_time": "00:07:25.790",
+    "text": "um that I mean guys if you can't clearly"
+  },
+  {
+    "start_time": "00:07:25.800",
+    "end_time": "00:07:28.790",
+    "text": "see that my mind is blown here"
+  },
+  {
+    "start_time": "00:07:28.800",
+    "end_time": "00:07:30.830",
+    "text": "um and if your minds aren't blown then"
+  },
+  {
+    "start_time": "00:07:30.840",
+    "end_time": "00:07:32.450",
+    "text": "yeah I don't I don't know what would"
+  },
+  {
+    "start_time": "00:07:32.460",
+    "end_time": "00:07:34.249",
+    "text": "have to happen it's like we literally"
+  },
+  {
+    "start_time": "00:07:34.259",
+    "end_time": "00:07:36.409",
+    "text": "all those Marvel movies that we love"
+  },
+  {
+    "start_time": "00:07:36.419",
+    "end_time": "00:07:38.749",
+    "text": "watching superheroes we have been given"
+  },
+  {
+    "start_time": "00:07:38.759",
+    "end_time": "00:07:41.270",
+    "text": "superhero Powers the reason why game"
+  },
+  {
+    "start_time": "00:07:41.280",
+    "end_time": "00:07:43.309",
+    "text": "developers are pissed off encoders are"
+  },
+  {
+    "start_time": "00:07:43.319",
+    "end_time": "00:07:45.469",
+    "text": "pissed off is because now everyday"
+  },
+  {
+    "start_time": "00:07:45.479",
+    "end_time": "00:07:48.830",
+    "text": "people like you and me can do the exact"
+  },
+  {
+    "start_time": "00:07:48.840",
+    "end_time": "00:07:50.749",
+    "text": "same thing create the exact same"
+  },
+  {
+    "start_time": "00:07:50.759",
+    "end_time": "00:07:53.749",
+    "text": "software that only coders used to be"
+  },
+  {
+    "start_time": "00:07:53.759",
+    "end_time": "00:07:55.670",
+    "text": "able to make I feel like the amount of"
+  },
+  {
+    "start_time": "00:07:55.680",
+    "end_time": "00:07:57.230",
+    "text": "software written the number of smart"
+  },
+  {
+    "start_time": "00:07:57.240",
+    "end_time": "00:07:59.930",
+    "text": "contracts written just the number of of"
+  },
+  {
+    "start_time": "00:07:59.940",
+    "end_time": "00:08:02.749",
+    "text": "games created is about to"
+  },
+  {
+    "start_time": "00:08:02.759",
+    "end_time": "00:08:04.730",
+    "text": "go up by an order of magnitude maybe"
+  },
+  {
+    "start_time": "00:08:04.740",
+    "end_time": "00:08:06.350",
+    "text": "multiple orders of magnitude that means"
+  },
+  {
+    "start_time": "00:08:06.360",
+    "end_time": "00:08:08.570",
+    "text": "a 10x increase for a hundred X increase"
+  },
+  {
+    "start_time": "00:08:08.580",
+    "end_time": "00:08:11.510",
+    "text": "because now everyone can do this stuff"
+  },
+  {
+    "start_time": "00:08:11.520",
+    "end_time": "00:08:13.129",
+    "text": "so here we go the wagering smart"
+  },
+  {
+    "start_time": "00:08:13.139",
+    "end_time": "00:08:14.990",
+    "text": "contract for the Palm pong game"
+  },
+  {
+    "start_time": "00:08:15.000",
+    "end_time": "00:08:16.490",
+    "text": "interacts with the previously created"
+  },
+  {
+    "start_time": "00:08:16.500",
+    "end_time": "00:08:18.770",
+    "text": "pong nft contract the contract allows"
+  },
+  {
+    "start_time": "00:08:18.780",
+    "end_time": "00:08:20.689",
+    "text": "players to spot to deposit their tokens"
+  },
+  {
+    "start_time": "00:08:20.699",
+    "end_time": "00:08:22.850",
+    "text": "the contract owner to create matches"
+  },
+  {
+    "start_time": "00:08:22.860",
+    "end_time": "00:08:25.610",
+    "text": "between tokens and the contract owner to"
+  },
+  {
+    "start_time": "00:08:25.620",
+    "end_time": "00:08:28.490",
+    "text": "in matches and determine the winner and"
+  },
+  {
+    "start_time": "00:08:28.500",
+    "end_time": "00:08:31.369",
+    "text": "loser the contract uses innumerable set"
+  },
+  {
+    "start_time": "00:08:31.379",
+    "end_time": "00:08:33.230",
+    "text": "from the open Zeppelin contracts library"
+  },
+  {
+    "start_time": "00:08:33.240",
+    "end_time": "00:08:35.149",
+    "text": "to store the deposit tokens for each"
+  },
+  {
+    "start_time": "00:08:35.159",
+    "end_time": "00:08:36.130",
+    "text": "player"
+  },
+  {
+    "start_time": "00:08:36.140",
+    "end_time": "00:08:39.350",
+    "text": "and there you go it looks like it got"
+  },
+  {
+    "start_time": "00:08:39.360",
+    "end_time": "00:08:41.570",
+    "text": "cut off here so if that happens we can"
+  },
+  {
+    "start_time": "00:08:41.580",
+    "end_time": "00:08:44.089",
+    "text": "just say complete and it will continue"
+  },
+  {
+    "start_time": "00:08:44.099",
+    "end_time": "00:08:45.889",
+    "text": "the in-match function allows the contact"
+  },
+  {
+    "start_time": "00:08:45.899",
+    "end_time": "00:08:47.449",
+    "text": "number to end the match and transfer the"
+  },
+  {
+    "start_time": "00:08:47.459",
+    "end_time": "00:08:49.310",
+    "text": "user's token to the winner so"
+  },
+  {
+    "start_time": "00:08:49.320",
+    "end_time": "00:08:52.070",
+    "text": "um if I was actually now going to like"
+  },
+  {
+    "start_time": "00:08:52.080",
+    "end_time": "00:08:54.050",
+    "text": "continue working with this and make this"
+  },
+  {
+    "start_time": "00:08:54.060",
+    "end_time": "00:08:55.610",
+    "text": "a complete game"
+  },
+  {
+    "start_time": "00:08:55.620",
+    "end_time": "00:08:57.949",
+    "text": "um I might uh just confirm with it here"
+  },
+  {
+    "start_time": "00:08:57.959",
+    "end_time": "00:08:59.630",
+    "text": "after it's done writing this"
+  },
+  {
+    "start_time": "00:08:59.640",
+    "end_time": "00:09:00.530",
+    "text": "um that this is going to be done"
+  },
+  {
+    "start_time": "00:09:00.540",
+    "end_time": "00:09:01.850",
+    "text": "automatically"
+  },
+  {
+    "start_time": "00:09:01.860",
+    "end_time": "00:09:03.350",
+    "text": "um and that the game is going to be able"
+  },
+  {
+    "start_time": "00:09:03.360",
+    "end_time": "00:09:05.870",
+    "text": "to interact with this like be what's"
+  },
+  {
+    "start_time": "00:09:05.880",
+    "end_time": "00:09:08.870",
+    "text": "controlling this contract and uh like do"
+  },
+  {
+    "start_time": "00:09:08.880",
+    "end_time": "00:09:10.130",
+    "text": "the necessary things to make the"
+  },
+  {
+    "start_time": "00:09:10.140",
+    "end_time": "00:09:11.990",
+    "text": "contract like so when someone actually"
+  },
+  {
+    "start_time": "00:09:12.000",
+    "end_time": "00:09:14.329",
+    "text": "wins or loses the game the game should"
+  },
+  {
+    "start_time": "00:09:14.339",
+    "end_time": "00:09:17.750",
+    "text": "have the function to literally uh say"
+  },
+  {
+    "start_time": "00:09:17.760",
+    "end_time": "00:09:19.550",
+    "text": "this person won and then have the smart"
+  },
+  {
+    "start_time": "00:09:19.560",
+    "end_time": "00:09:21.470",
+    "text": "contract do what it's going to do"
+  },
+  {
+    "start_time": "00:09:21.480",
+    "end_time": "00:09:23.690",
+    "text": "um and yeah I'm sure that's something"
+  },
+  {
+    "start_time": "00:09:23.700",
+    "end_time": "00:09:26.990",
+    "text": "that this gbd4 can do for us so"
+  },
+  {
+    "start_time": "00:09:27.000",
+    "end_time": "00:09:28.970",
+    "text": "um I I'm not gonna continue going here"
+  },
+  {
+    "start_time": "00:09:28.980",
+    "end_time": "00:09:30.889",
+    "text": "but I think I made my point"
+  },
+  {
+    "start_time": "00:09:30.899",
+    "end_time": "00:09:33.410",
+    "text": "um this is just absolutely wild"
+  },
+  {
+    "start_time": "00:09:33.420",
+    "end_time": "00:09:35.630",
+    "text": "um I'm probably gonna spend this weekend"
+  },
+  {
+    "start_time": "00:09:35.640",
+    "end_time": "00:09:38.990",
+    "text": "actually making a crypto game and then"
+  },
+  {
+    "start_time": "00:09:39.000",
+    "end_time": "00:09:40.610",
+    "text": "maybe just like show it off to you guys"
+  },
+  {
+    "start_time": "00:09:40.620",
+    "end_time": "00:09:42.650",
+    "text": "I think that would be a pretty sweet"
+  },
+  {
+    "start_time": "00:09:42.660",
+    "end_time": "00:09:45.410",
+    "text": "video so if you guys enjoyed this one um"
+  },
+  {
+    "start_time": "00:09:45.420",
+    "end_time": "00:09:46.610",
+    "text": "and want to see where this goes remember"
+  },
+  {
+    "start_time": "00:09:46.620",
+    "end_time": "00:09:48.889",
+    "text": "to hit subscribe hit thumbs up and have"
+  },
+  {
+    "start_time": "00:09:48.899",
+    "end_time": "00:09:51.650",
+    "text": "fun making your own games uh your own"
+  },
+  {
+    "start_time": "00:09:51.660",
+    "end_time": "00:09:53.630",
+    "text": "whatever you want I mean you can make"
+  },
+  {
+    "start_time": "00:09:53.640",
+    "end_time": "00:09:56.389",
+    "text": "Dao smart you can code anything the"
+  },
+  {
+    "start_time": "00:09:56.399",
+    "end_time": "00:09:58.370",
+    "text": "world is at your fingertips and I'll see"
+  },
+  {
+    "start_time": "00:09:58.380",
+    "end_time": "00:10:01.700",
+    "text": "you guys in the next one"
+  }
+]

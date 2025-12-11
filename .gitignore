@@ -1,0 +1,7 @@
+.env
+.venvSofia
+.DS_Store
+node_modules/
+.git
+.gradio/
+__pycache__/

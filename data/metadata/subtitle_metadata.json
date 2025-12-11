@@ -1,0 +1,22 @@
+[
+    {
+        "video_title": "How to Build a Blockchain Game Using ChatGPT!",
+        "url": "https://www.youtube.com/watch?v=dMfIh3Q_Rgc",
+        "subtitle_file": "../data/raw/How to Build a Blockchain Game Using ChatGPT!.vtt"
+    },
+    {
+        "video_title": "How to Build a Blockchain Game",
+        "url": "https://www.youtube.com/watch?v=Mdpf0n-tGvE",
+        "subtitle_file": "../data/raw/How to Build a Blockchain Game.vtt"
+    },
+    {
+        "video_title": "From Zero to Blockchain Developer in 10 Months Complete Roadmap",
+        "url": "https://www.youtube.com/watch?v=gdiao7L9GjE",
+        "subtitle_file": "../data/raw/From Zero to Blockchain Developer in 10 Months Complete Roadmap.vtt"
+    },
+    {
+        "video_title": "How to build a Web3 game on the Base blockchain",
+        "url": "https://www.youtube.com/watch?v=6KU054gmpfg",
+        "subtitle_file": "../data/raw/How to build a Web3 game on the Base blockchain.vtt"
+    }
+]

@@ -1,0 +1,1167 @@
+[
+  {
+    "start_time": "00:00:03.770",
+    "end_time": "00:00:03.780",
+    "text": "few weeks ago coinbase launched Ace a"
+  },
+  {
+    "start_time": "00:00:03.780",
+    "end_time": "00:00:05.870",
+    "text": "layer 2 blockchain built on top of"
+  },
+  {
+    "start_time": "00:00:05.880",
+    "end_time": "00:00:09.049",
+    "text": "ethereum it is fast and is cheap which"
+  },
+  {
+    "start_time": "00:00:09.059",
+    "end_time": "00:00:11.330",
+    "text": "means it could be the home for the next"
+  },
+  {
+    "start_time": "00:00:11.340",
+    "end_time": "00:00:14.270",
+    "text": "generation of web3 apps but building a"
+  },
+  {
+    "start_time": "00:00:14.280",
+    "end_time": "00:00:16.609",
+    "text": "web 3 app is hard you need to be an"
+  },
+  {
+    "start_time": "00:00:16.619",
+    "end_time": "00:00:18.950",
+    "text": "expert at so many tools understand so"
+  },
+  {
+    "start_time": "00:00:18.960",
+    "end_time": "00:00:21.790",
+    "text": "many Concepts just to start a prototype"
+  },
+  {
+    "start_time": "00:00:21.800",
+    "end_time": "00:00:24.370",
+    "text": "this is where third web comes in"
+  },
+  {
+    "start_time": "00:00:24.380",
+    "end_time": "00:00:28.490",
+    "text": "Building on Base is super easy with the"
+  },
+  {
+    "start_time": "00:00:28.500",
+    "end_time": "00:00:30.650",
+    "text": "weapon gives you all the tools you need"
+  },
+  {
+    "start_time": "00:00:30.660",
+    "end_time": "00:00:32.690",
+    "text": "to get started and build a great web"
+  },
+  {
+    "start_time": "00:00:32.700",
+    "end_time": "00:00:34.010",
+    "text": "free app"
+  },
+  {
+    "start_time": "00:00:34.020",
+    "end_time": "00:00:37.190",
+    "text": "in fact we use the web to build cat"
+  },
+  {
+    "start_time": "00:00:37.200",
+    "end_time": "00:00:41.180",
+    "text": "attack the first game on base"
+  },
+  {
+    "start_time": "00:00:41.190",
+    "end_time": "00:00:43.069",
+    "text": "[Music]"
+  },
+  {
+    "start_time": "00:00:43.079",
+    "end_time": "00:00:45.170",
+    "text": "it's a fun little game with cats you"
+  },
+  {
+    "start_time": "00:00:45.180",
+    "end_time": "00:00:47.270",
+    "text": "start level 1 with a small kitten you"
+  },
+  {
+    "start_time": "00:00:47.280",
+    "end_time": "00:00:49.610",
+    "text": "evolve it to a grumpy cat and eventually"
+  },
+  {
+    "start_time": "00:00:49.620",
+    "end_time": "00:00:51.770",
+    "text": "you get level 3 Ninja cap to attack"
+  },
+  {
+    "start_time": "00:00:51.780",
+    "end_time": "00:00:53.869",
+    "text": "other players it's a very simple Loop"
+  },
+  {
+    "start_time": "00:00:53.879",
+    "end_time": "00:00:56.869",
+    "text": "and we build this in only two days but"
+  },
+  {
+    "start_time": "00:00:56.879",
+    "end_time": "00:00:57.830",
+    "text": "guess what"
+  },
+  {
+    "start_time": "00:00:57.840",
+    "end_time": "00:01:01.010",
+    "text": "this game got a hundred thousand players"
+  },
+  {
+    "start_time": "00:01:01.020",
+    "end_time": "00:01:04.070",
+    "text": "and the contract for the game got over a"
+  },
+  {
+    "start_time": "00:01:04.080",
+    "end_time": "00:01:06.410",
+    "text": "million transaction it is the hottest"
+  },
+  {
+    "start_time": "00:01:06.420",
+    "end_time": "00:01:10.010",
+    "text": "contract on base right now"
+  },
+  {
+    "start_time": "00:01:10.020",
+    "end_time": "00:01:12.649",
+    "text": "and I'm gonna show you how to build your"
+  },
+  {
+    "start_time": "00:01:12.659",
+    "end_time": "00:01:15.350",
+    "text": "own you could be the next big hit on"
+  },
+  {
+    "start_time": "00:01:15.360",
+    "end_time": "00:01:16.250",
+    "text": "bass"
+  },
+  {
+    "start_time": "00:01:16.260",
+    "end_time": "00:01:18.469",
+    "text": "so let's get started so the first thing"
+  },
+  {
+    "start_time": "00:01:18.479",
+    "end_time": "00:01:22.090",
+    "text": "you want to do is if you haven't already"
+  },
+  {
+    "start_time": "00:01:22.100",
+    "end_time": "00:01:26.870",
+    "text": "is install the coinbase wallet browser"
+  },
+  {
+    "start_time": "00:01:26.880",
+    "end_time": "00:01:28.850",
+    "text": "extension so the first thing you might"
+  },
+  {
+    "start_time": "00:01:28.860",
+    "end_time": "00:01:30.890",
+    "text": "want to do is get some test net money"
+  },
+  {
+    "start_time": "00:01:30.900",
+    "end_time": "00:01:32.749",
+    "text": "here for example you can get some base"
+  },
+  {
+    "start_time": "00:01:32.759",
+    "end_time": "00:01:36.109",
+    "text": "girly eth on the coinbase faucet website"
+  },
+  {
+    "start_time": "00:01:36.119",
+    "end_time": "00:01:37.850",
+    "text": "and all you need is a coinbase wallet"
+  },
+  {
+    "start_time": "00:01:37.860",
+    "end_time": "00:01:40.010",
+    "text": "browser extension just click here and"
+  },
+  {
+    "start_time": "00:01:40.020",
+    "end_time": "00:01:42.649",
+    "text": "you'll get some base test net funds once"
+  },
+  {
+    "start_time": "00:01:42.659",
+    "end_time": "00:01:45.550",
+    "text": "you have that jump over to"
+  },
+  {
+    "start_time": "00:01:45.560",
+    "end_time": "00:01:47.230",
+    "text": "theweb.com"
+  },
+  {
+    "start_time": "00:01:47.240",
+    "end_time": "00:01:50.569",
+    "text": "dashboard every web3 app starts the same"
+  },
+  {
+    "start_time": "00:01:50.579",
+    "end_time": "00:01:52.609",
+    "text": "way you're going to need a contract and"
+  },
+  {
+    "start_time": "00:01:52.619",
+    "end_time": "00:01:54.350",
+    "text": "third web has multiple ways to do this"
+  },
+  {
+    "start_time": "00:01:54.360",
+    "end_time": "00:01:56.569",
+    "text": "you can write your own contract and"
+  },
+  {
+    "start_time": "00:01:56.579",
+    "end_time": "00:02:00.050",
+    "text": "deploy it via the CLI or you can go to"
+  },
+  {
+    "start_time": "00:02:00.060",
+    "end_time": "00:02:02.330",
+    "text": "the dashboard and pick one of the"
+  },
+  {
+    "start_time": "00:02:02.340",
+    "end_time": "00:02:06.410",
+    "text": "already available contracts that are"
+  },
+  {
+    "start_time": "00:02:06.420",
+    "end_time": "00:02:08.930",
+    "text": "available in this explore page for our"
+  },
+  {
+    "start_time": "00:02:08.940",
+    "end_time": "00:02:12.650",
+    "text": "case we want to build a Edition drop"
+  },
+  {
+    "start_time": "00:02:12.660",
+    "end_time": "00:02:15.770",
+    "text": "because we're going to drop a brand new"
+  },
+  {
+    "start_time": "00:02:15.780",
+    "end_time": "00:02:19.010",
+    "text": "cat nfts to our players which is going"
+  },
+  {
+    "start_time": "00:02:19.020",
+    "end_time": "00:02:20.630",
+    "text": "to unlock something in the game so I'm"
+  },
+  {
+    "start_time": "00:02:20.640",
+    "end_time": "00:02:22.430",
+    "text": "going to pick addition drop here let's"
+  },
+  {
+    "start_time": "00:02:22.440",
+    "end_time": "00:02:25.790",
+    "text": "go ahead and just deploy it so here when"
+  },
+  {
+    "start_time": "00:02:25.800",
+    "end_time": "00:02:27.949",
+    "text": "I deploy it it's going to ask me for"
+  },
+  {
+    "start_time": "00:02:27.959",
+    "end_time": "00:02:30.710",
+    "text": "basic information so cat attack has been"
+  },
+  {
+    "start_time": "00:02:30.720",
+    "end_time": "00:02:32.930",
+    "text": "hugely popular and I want to add a"
+  },
+  {
+    "start_time": "00:02:32.940",
+    "end_time": "00:02:36.050",
+    "text": "little extra functionality to it so what"
+  },
+  {
+    "start_time": "00:02:36.060",
+    "end_time": "00:02:38.809",
+    "text": "we're going to build today is a new drop"
+  },
+  {
+    "start_time": "00:02:38.819",
+    "end_time": "00:02:41.869",
+    "text": "that's going to give our players new"
+  },
+  {
+    "start_time": "00:02:41.879",
+    "end_time": "00:02:45.110",
+    "text": "skins for this is their kitten their"
+  },
+  {
+    "start_time": "00:02:45.120",
+    "end_time": "00:02:47.210",
+    "text": "Grumpy Cat and their ninja cat and"
+  },
+  {
+    "start_time": "00:02:47.220",
+    "end_time": "00:02:49.070",
+    "text": "notice there's a bit of a theme they're"
+  },
+  {
+    "start_time": "00:02:49.080",
+    "end_time": "00:02:51.350",
+    "text": "all kind of Engineers slash Builders"
+  },
+  {
+    "start_time": "00:02:51.360",
+    "end_time": "00:02:54.470",
+    "text": "here I'm gonna make it so if you hold"
+  },
+  {
+    "start_time": "00:02:54.480",
+    "end_time": "00:02:56.630",
+    "text": "this nft which I call the deaf cat"
+  },
+  {
+    "start_time": "00:02:56.640",
+    "end_time": "00:02:59.809",
+    "text": "you're gonna unlock new skins in the cat"
+  },
+  {
+    "start_time": "00:02:59.819",
+    "end_time": "00:03:01.910",
+    "text": "attack game so let me show you how to"
+  },
+  {
+    "start_time": "00:03:01.920",
+    "end_time": "00:03:04.130",
+    "text": "build this really easy I'm ready to"
+  },
+  {
+    "start_time": "00:03:04.140",
+    "end_time": "00:03:07.190",
+    "text": "deploy my Edition drop now Dev cat drop"
+  },
+  {
+    "start_time": "00:03:07.200",
+    "end_time": "00:03:09.410",
+    "text": "let's put a little image for it we're"
+  },
+  {
+    "start_time": "00:03:09.420",
+    "end_time": "00:03:11.809",
+    "text": "gonna use our cute like Dev cat icon"
+  },
+  {
+    "start_time": "00:03:11.819",
+    "end_time": "00:03:14.869",
+    "text": "here and then from here all I have to do"
+  },
+  {
+    "start_time": "00:03:14.879",
+    "end_time": "00:03:18.649",
+    "text": "is choose bass girly from the drop down"
+  },
+  {
+    "start_time": "00:03:18.659",
+    "end_time": "00:03:21.470",
+    "text": "here if you don't have it configured"
+  },
+  {
+    "start_time": "00:03:21.480",
+    "end_time": "00:03:25.009",
+    "text": "type base and select base and add it to"
+  },
+  {
+    "start_time": "00:03:25.019",
+    "end_time": "00:03:28.009",
+    "text": "your networks here I already have it so"
+  },
+  {
+    "start_time": "00:03:28.019",
+    "end_time": "00:03:30.229",
+    "text": "now I'm ready to add it to my dashboard"
+  },
+  {
+    "start_time": "00:03:30.239",
+    "end_time": "00:03:33.710",
+    "text": "and so let's go ahead and deploy it it's"
+  },
+  {
+    "start_time": "00:03:33.720",
+    "end_time": "00:03:35.509",
+    "text": "just asking me to confirm here on my"
+  },
+  {
+    "start_time": "00:03:35.519",
+    "end_time": "00:03:37.070",
+    "text": "coinbase wallet it's going to be one"
+  },
+  {
+    "start_time": "00:03:37.080",
+    "end_time": "00:03:39.470",
+    "text": "more signature so this doesn't cost"
+  },
+  {
+    "start_time": "00:03:39.480",
+    "end_time": "00:03:41.509",
+    "text": "anything just to add it to my dashboard"
+  },
+  {
+    "start_time": "00:03:41.519",
+    "end_time": "00:03:43.910",
+    "text": "so I can easily find it later and there"
+  },
+  {
+    "start_time": "00:03:43.920",
+    "end_time": "00:03:46.490",
+    "text": "we go my contract was deployed here's my"
+  },
+  {
+    "start_time": "00:03:46.500",
+    "end_time": "00:03:49.490",
+    "text": "contracts dashboard page so this is an"
+  },
+  {
+    "start_time": "00:03:49.500",
+    "end_time": "00:03:53.330",
+    "text": "nft contract ERC 1155 and so it gives me"
+  },
+  {
+    "start_time": "00:03:53.340",
+    "end_time": "00:03:57.289",
+    "text": "a nice nft tab where I can see all my"
+  },
+  {
+    "start_time": "00:03:57.299",
+    "end_time": "00:03:59.930",
+    "text": "nfts and mint my nfts right from the"
+  },
+  {
+    "start_time": "00:03:59.940",
+    "end_time": "00:04:01.910",
+    "text": "dashboard it's mint and ft here and this"
+  },
+  {
+    "start_time": "00:04:01.920",
+    "end_time": "00:04:03.470",
+    "text": "is going to be just devcat I think I'm"
+  },
+  {
+    "start_time": "00:04:03.480",
+    "end_time": "00:04:05.570",
+    "text": "going to call it and it's going to be"
+  },
+  {
+    "start_time": "00:04:05.580",
+    "end_time": "00:04:06.610",
+    "text": "this"
+  },
+  {
+    "start_time": "00:04:06.620",
+    "end_time": "00:04:10.550",
+    "text": "little visual here let's go and mint"
+  },
+  {
+    "start_time": "00:04:10.560",
+    "end_time": "00:04:13.130",
+    "text": "this on our contracts so this process"
+  },
+  {
+    "start_time": "00:04:13.140",
+    "end_time": "00:04:16.370",
+    "text": "called lazy minting because not actually"
+  },
+  {
+    "start_time": "00:04:16.380",
+    "end_time": "00:04:19.069",
+    "text": "minting it to my address what I'm doing"
+  },
+  {
+    "start_time": "00:04:19.079",
+    "end_time": "00:04:22.730",
+    "text": "is I'm preparing this nft to be claimed"
+  },
+  {
+    "start_time": "00:04:22.740",
+    "end_time": "00:04:25.129",
+    "text": "by other people that's going to be the"
+  },
+  {
+    "start_time": "00:04:25.139",
+    "end_time": "00:04:27.909",
+    "text": "players so this has uploaded all my"
+  },
+  {
+    "start_time": "00:04:27.919",
+    "end_time": "00:04:31.550",
+    "text": "metadata to ipfs and now I'm ready to"
+  },
+  {
+    "start_time": "00:04:31.560",
+    "end_time": "00:04:34.070",
+    "text": "actually call the contracts so let's"
+  },
+  {
+    "start_time": "00:04:34.080",
+    "end_time": "00:04:37.850",
+    "text": "confirm that here's our Dev cat nft now"
+  },
+  {
+    "start_time": "00:04:37.860",
+    "end_time": "00:04:39.950",
+    "text": "you can see that the supply is zero here"
+  },
+  {
+    "start_time": "00:04:39.960",
+    "end_time": "00:04:41.990",
+    "text": "and that's because no one has claimed"
+  },
+  {
+    "start_time": "00:04:42.000",
+    "end_time": "00:04:44.930",
+    "text": "any yet again we just prepare this nft"
+  },
+  {
+    "start_time": "00:04:44.940",
+    "end_time": "00:04:46.670",
+    "text": "to be claimed one thing that you can do"
+  },
+  {
+    "start_time": "00:04:46.680",
+    "end_time": "00:04:48.950",
+    "text": "is you can click on the nft and see some"
+  },
+  {
+    "start_time": "00:04:48.960",
+    "end_time": "00:04:50.930",
+    "text": "details about it the important thing"
+  },
+  {
+    "start_time": "00:04:50.940",
+    "end_time": "00:04:52.490",
+    "text": "that we're going to do here is we're"
+  },
+  {
+    "start_time": "00:04:52.500",
+    "end_time": "00:04:55.730",
+    "text": "going to set our claim conditions"
+  },
+  {
+    "start_time": "00:04:55.740",
+    "end_time": "00:04:57.830",
+    "text": "this can get really powerful you can"
+  },
+  {
+    "start_time": "00:04:57.840",
+    "end_time": "00:04:59.689",
+    "text": "have multiple phases with different"
+  },
+  {
+    "start_time": "00:04:59.699",
+    "end_time": "00:05:02.030",
+    "text": "rules here I'm going to call this a"
+  },
+  {
+    "start_time": "00:05:02.040",
+    "end_time": "00:05:05.930",
+    "text": "public Dev drop and we can say when will"
+  },
+  {
+    "start_time": "00:05:05.940",
+    "end_time": "00:05:08.990",
+    "text": "people be able to start minting how many"
+  },
+  {
+    "start_time": "00:05:09.000",
+    "end_time": "00:05:11.510",
+    "text": "will you drop in this phase so I want to"
+  },
+  {
+    "start_time": "00:05:11.520",
+    "end_time": "00:05:13.850",
+    "text": "make it so that not everybody can claim"
+  },
+  {
+    "start_time": "00:05:13.860",
+    "end_time": "00:05:15.710",
+    "text": "we're going to make it a little limited"
+  },
+  {
+    "start_time": "00:05:15.720",
+    "end_time": "00:05:18.710",
+    "text": "Supply so let's say 10 000 FTS is going"
+  },
+  {
+    "start_time": "00:05:18.720",
+    "end_time": "00:05:20.270",
+    "text": "to be the maximum amount that people can"
+  },
+  {
+    "start_time": "00:05:20.280",
+    "end_time": "00:05:22.189",
+    "text": "claim how much do you want to charge so"
+  },
+  {
+    "start_time": "00:05:22.199",
+    "end_time": "00:05:24.050",
+    "text": "we can put a price here we're not going"
+  },
+  {
+    "start_time": "00:05:24.060",
+    "end_time": "00:05:26.510",
+    "text": "to put any price and then who can claim"
+  },
+  {
+    "start_time": "00:05:26.520",
+    "end_time": "00:05:28.850",
+    "text": "these nfts for our case we're gonna"
+  },
+  {
+    "start_time": "00:05:28.860",
+    "end_time": "00:05:31.189",
+    "text": "leave it open but you can see here you"
+  },
+  {
+    "start_time": "00:05:31.199",
+    "end_time": "00:05:33.770",
+    "text": "can create interesting mechanics here"
+  },
+  {
+    "start_time": "00:05:33.780",
+    "end_time": "00:05:36.590",
+    "text": "for your community then how many nfts"
+  },
+  {
+    "start_time": "00:05:36.600",
+    "end_time": "00:05:38.390",
+    "text": "per wallet can be claimed we're going to"
+  },
+  {
+    "start_time": "00:05:38.400",
+    "end_time": "00:05:40.249",
+    "text": "say only one per wallet and that's it"
+  },
+  {
+    "start_time": "00:05:40.259",
+    "end_time": "00:05:42.290",
+    "text": "I'm going to save my flame faces here"
+  },
+  {
+    "start_time": "00:05:42.300",
+    "end_time": "00:05:43.790",
+    "text": "and this is going to do a another"
+  },
+  {
+    "start_time": "00:05:43.800",
+    "end_time": "00:05:46.370",
+    "text": "transaction on my contract so all of"
+  },
+  {
+    "start_time": "00:05:46.380",
+    "end_time": "00:05:48.409",
+    "text": "these rules that you see here are"
+  },
+  {
+    "start_time": "00:05:48.419",
+    "end_time": "00:05:51.050",
+    "text": "actually encoded into my contracts so"
+  },
+  {
+    "start_time": "00:05:51.060",
+    "end_time": "00:05:52.909",
+    "text": "nobody can bypass them"
+  },
+  {
+    "start_time": "00:05:52.919",
+    "end_time": "00:05:55.850",
+    "text": "let's confirm that we're all ready to go"
+  },
+  {
+    "start_time": "00:05:55.860",
+    "end_time": "00:05:57.409",
+    "text": "we don't want people to do it through"
+  },
+  {
+    "start_time": "00:05:57.419",
+    "end_time": "00:05:58.430",
+    "text": "there we want to create our own"
+  },
+  {
+    "start_time": "00:05:58.440",
+    "end_time": "00:06:00.350",
+    "text": "application where people can claim those"
+  },
+  {
+    "start_time": "00:06:00.360",
+    "end_time": "00:06:03.830",
+    "text": "Dev cats so now we're ready to build our"
+  },
+  {
+    "start_time": "00:06:03.840",
+    "end_time": "00:06:07.249",
+    "text": "app and we have all of the code here in"
+  },
+  {
+    "start_time": "00:06:07.259",
+    "end_time": "00:06:10.070",
+    "text": "the dashboard to help us do that so"
+  },
+  {
+    "start_time": "00:06:10.080",
+    "end_time": "00:06:12.529",
+    "text": "let's jump over to replit"
+  },
+  {
+    "start_time": "00:06:12.539",
+    "end_time": "00:06:15.050",
+    "text": "if you look for third web"
+  },
+  {
+    "start_time": "00:06:15.060",
+    "end_time": "00:06:18.409",
+    "text": "you'll have a bunch of templates that we"
+  },
+  {
+    "start_time": "00:06:18.419",
+    "end_time": "00:06:22.550",
+    "text": "prepared and one of them is specific for"
+  },
+  {
+    "start_time": "00:06:22.560",
+    "end_time": "00:06:25.510",
+    "text": "this Edition drop here I've spined up"
+  },
+  {
+    "start_time": "00:06:25.520",
+    "end_time": "00:06:30.110",
+    "text": "our Edition drop template which already"
+  },
+  {
+    "start_time": "00:06:30.120",
+    "end_time": "00:06:34.550",
+    "text": "comes with a react app that is going to"
+  },
+  {
+    "start_time": "00:06:34.560",
+    "end_time": "00:06:38.629",
+    "text": "show my nft in a nice claim button for"
+  },
+  {
+    "start_time": "00:06:38.639",
+    "end_time": "00:06:42.309",
+    "text": "people to claim so here's the app I just"
+  },
+  {
+    "start_time": "00:06:42.319",
+    "end_time": "00:06:45.350",
+    "text": "started this Edition drop claim page"
+  },
+  {
+    "start_time": "00:06:45.360",
+    "end_time": "00:06:50.210",
+    "text": "template on replit and I opened the main"
+  },
+  {
+    "start_time": "00:06:50.220",
+    "end_time": "00:06:52.370",
+    "text": "file the first thing that you see here"
+  },
+  {
+    "start_time": "00:06:52.380",
+    "end_time": "00:06:54.590",
+    "text": "is that you need to tell the app which"
+  },
+  {
+    "start_time": "00:06:54.600",
+    "end_time": "00:06:57.950",
+    "text": "chain your drop is going to be on and of"
+  },
+  {
+    "start_time": "00:06:57.960",
+    "end_time": "00:06:59.210",
+    "text": "course we're going to do our drop on"
+  },
+  {
+    "start_time": "00:06:59.220",
+    "end_time": "00:07:02.330",
+    "text": "base so how do we do that here we"
+  },
+  {
+    "start_time": "00:07:02.340",
+    "end_time": "00:07:04.670",
+    "text": "actually have a lot of different chains"
+  },
+  {
+    "start_time": "00:07:04.680",
+    "end_time": "00:07:07.430",
+    "text": "for example you can just type"
+  },
+  {
+    "start_time": "00:07:07.440",
+    "end_time": "00:07:10.670",
+    "text": "base girly as one of the chains and you"
+  },
+  {
+    "start_time": "00:07:10.680",
+    "end_time": "00:07:12.409",
+    "text": "see it's in our third web dev chains"
+  },
+  {
+    "start_time": "00:07:12.419",
+    "end_time": "00:07:14.930",
+    "text": "package so it's already all pre-packaged"
+  },
+  {
+    "start_time": "00:07:14.940",
+    "end_time": "00:07:16.670",
+    "text": "up for you now that I've set my chain"
+  },
+  {
+    "start_time": "00:07:16.680",
+    "end_time": "00:07:18.950",
+    "text": "here all I need to do is pass it to the"
+  },
+  {
+    "start_time": "00:07:18.960",
+    "end_time": "00:07:21.890",
+    "text": "so web provider that's going to wrap our"
+  },
+  {
+    "start_time": "00:07:21.900",
+    "end_time": "00:07:24.350",
+    "text": "app and make sure that we're always"
+  },
+  {
+    "start_time": "00:07:24.360",
+    "end_time": "00:07:27.350",
+    "text": "connected to base all across our"
+  },
+  {
+    "start_time": "00:07:27.360",
+    "end_time": "00:07:29.210",
+    "text": "application then from there I can go"
+  },
+  {
+    "start_time": "00:07:29.220",
+    "end_time": "00:07:32.270",
+    "text": "into my actual app code here this is my"
+  },
+  {
+    "start_time": "00:07:32.280",
+    "end_time": "00:07:33.890",
+    "text": "home page and you can see there's"
+  },
+  {
+    "start_time": "00:07:33.900",
+    "end_time": "00:07:35.689",
+    "text": "another to-do here which is to put the"
+  },
+  {
+    "start_time": "00:07:35.699",
+    "end_time": "00:07:37.790",
+    "text": "contract address which contract do we"
+  },
+  {
+    "start_time": "00:07:37.800",
+    "end_time": "00:07:39.710",
+    "text": "want to display the drops from luckily"
+  },
+  {
+    "start_time": "00:07:39.720",
+    "end_time": "00:07:41.749",
+    "text": "if we go back to our dashboard so I"
+  },
+  {
+    "start_time": "00:07:41.759",
+    "end_time": "00:07:44.390",
+    "text": "clicked here to copy the address and"
+  },
+  {
+    "start_time": "00:07:44.400",
+    "end_time": "00:07:46.790",
+    "text": "going back to my replic code here I'm"
+  },
+  {
+    "start_time": "00:07:46.800",
+    "end_time": "00:07:48.890",
+    "text": "just going to paste the address here the"
+  },
+  {
+    "start_time": "00:07:48.900",
+    "end_time": "00:07:51.110",
+    "text": "last thing you can change is which nft"
+  },
+  {
+    "start_time": "00:07:51.120",
+    "end_time": "00:07:52.969",
+    "text": "do you want people to be able to claim"
+  },
+  {
+    "start_time": "00:07:52.979",
+    "end_time": "00:07:55.790",
+    "text": "so again if we go back to our nft tab"
+  },
+  {
+    "start_time": "00:07:55.800",
+    "end_time": "00:07:58.370",
+    "text": "here see that our token ID for our Dev"
+  },
+  {
+    "start_time": "00:07:58.380",
+    "end_time": "00:08:01.270",
+    "text": "cat is tokenity zero it's the first one"
+  },
+  {
+    "start_time": "00:08:01.280",
+    "end_time": "00:08:04.129",
+    "text": "so that's what we put up here and then"
+  },
+  {
+    "start_time": "00:08:04.139",
+    "end_time": "00:08:07.010",
+    "text": "from here we kind of just followed What"
+  },
+  {
+    "start_time": "00:08:07.020",
+    "end_time": "00:08:09.529",
+    "text": "the code tab in the dashboard tells us"
+  },
+  {
+    "start_time": "00:08:09.539",
+    "end_time": "00:08:13.430",
+    "text": "to do we did use contracts to get an"
+  },
+  {
+    "start_time": "00:08:13.440",
+    "end_time": "00:08:15.710",
+    "text": "instance of our contract in our app and"
+  },
+  {
+    "start_time": "00:08:15.720",
+    "end_time": "00:08:19.430",
+    "text": "then use nft to get an nft and display"
+  },
+  {
+    "start_time": "00:08:19.440",
+    "end_time": "00:08:21.110",
+    "text": "it and then there's all the things like"
+  },
+  {
+    "start_time": "00:08:21.120",
+    "end_time": "00:08:23.869",
+    "text": "get the supply easy enough that you can"
+  },
+  {
+    "start_time": "00:08:23.879",
+    "end_time": "00:08:26.390",
+    "text": "go ahead and start modifying this this"
+  },
+  {
+    "start_time": "00:08:26.400",
+    "end_time": "00:08:28.730",
+    "text": "is just a great starting point so I"
+  },
+  {
+    "start_time": "00:08:28.740",
+    "end_time": "00:08:30.589",
+    "text": "think we're ready to go let's let's run"
+  },
+  {
+    "start_time": "00:08:30.599",
+    "end_time": "00:08:32.269",
+    "text": "this thing let's see what happens"
+  },
+  {
+    "start_time": "00:08:32.279",
+    "end_time": "00:08:35.690",
+    "text": "so I'm just going to type yarn Dev which"
+  },
+  {
+    "start_time": "00:08:35.700",
+    "end_time": "00:08:39.110",
+    "text": "opens up the webview right here in"
+  },
+  {
+    "start_time": "00:08:39.120",
+    "end_time": "00:08:41.630",
+    "text": "riplet this is the mobile view we can"
+  },
+  {
+    "start_time": "00:08:41.640",
+    "end_time": "00:08:44.329",
+    "text": "look at the the desktop view here this"
+  },
+  {
+    "start_time": "00:08:44.339",
+    "end_time": "00:08:46.370",
+    "text": "is the basic claim functionality I see"
+  },
+  {
+    "start_time": "00:08:46.380",
+    "end_time": "00:08:48.949",
+    "text": "my nft I see how many have been minted"
+  },
+  {
+    "start_time": "00:08:48.959",
+    "end_time": "00:08:50.990",
+    "text": "so far you can select the quantity"
+  },
+  {
+    "start_time": "00:08:51.000",
+    "end_time": "00:08:53.630",
+    "text": "although for us it's only maximum one"
+  },
+  {
+    "start_time": "00:08:53.640",
+    "end_time": "00:08:55.910",
+    "text": "per wallet so this does nothing let's"
+  },
+  {
+    "start_time": "00:08:55.920",
+    "end_time": "00:08:58.310",
+    "text": "try it out we can open this in the new"
+  },
+  {
+    "start_time": "00:08:58.320",
+    "end_time": "00:09:02.210",
+    "text": "tab so here's the full app that we built"
+  },
+  {
+    "start_time": "00:09:02.220",
+    "end_time": "00:09:05.329",
+    "text": "even the connect wallet functionality is"
+  },
+  {
+    "start_time": "00:09:05.339",
+    "end_time": "00:09:08.389",
+    "text": "all one react component that we're able"
+  },
+  {
+    "start_time": "00:09:08.399",
+    "end_time": "00:09:11.030",
+    "text": "to just slap on our application and it"
+  },
+  {
+    "start_time": "00:09:11.040",
+    "end_time": "00:09:13.250",
+    "text": "handles everything for me so here I'm"
+  },
+  {
+    "start_time": "00:09:13.260",
+    "end_time": "00:09:17.750",
+    "text": "gonna connect my coinbase wallets so"
+  },
+  {
+    "start_time": "00:09:17.760",
+    "end_time": "00:09:20.210",
+    "text": "that's it now I'm connected so let's"
+  },
+  {
+    "start_time": "00:09:20.220",
+    "end_time": "00:09:24.650",
+    "text": "Mentor first Dev cat nft on the fronted"
+  },
+  {
+    "start_time": "00:09:24.660",
+    "end_time": "00:09:27.350",
+    "text": "that we build ourselves on replit in a"
+  },
+  {
+    "start_time": "00:09:27.360",
+    "end_time": "00:09:29.090",
+    "text": "few minutes I'm gonna click mince"
+  },
+  {
+    "start_time": "00:09:29.100",
+    "end_time": "00:09:31.490",
+    "text": "confirm the transaction on my coinbase"
+  },
+  {
+    "start_time": "00:09:31.500",
+    "end_time": "00:09:32.449",
+    "text": "wallet"
+  },
+  {
+    "start_time": "00:09:32.459",
+    "end_time": "00:09:36.290",
+    "text": "and there you go successfully minted nft"
+  },
+  {
+    "start_time": "00:09:36.300",
+    "end_time": "00:09:39.829",
+    "text": "now I'm ready to building and making my"
+  },
+  {
+    "start_time": "00:09:39.839",
+    "end_time": "00:09:44.389",
+    "text": "website my own and start building my Dev"
+  },
+  {
+    "start_time": "00:09:44.399",
+    "end_time": "00:09:47.750",
+    "text": "cat on chain Community using those nfts"
+  },
+  {
+    "start_time": "00:09:47.760",
+    "end_time": "00:09:49.670",
+    "text": "it's going to unlock new skins in the"
+  },
+  {
+    "start_time": "00:09:49.680",
+    "end_time": "00:09:51.590",
+    "text": "cat attack game and that's it for me"
+  },
+  {
+    "start_time": "00:09:51.600",
+    "end_time": "00:09:54.410",
+    "text": "thanks for listening go build cool web3"
+  },
+  {
+    "start_time": "00:09:54.420",
+    "end_time": "00:09:57.410",
+    "text": "apps in just a few minutes we built the"
+  },
+  {
+    "start_time": "00:09:57.420",
+    "end_time": "00:09:59.810",
+    "text": "foundation of the cat attack game now"
+  },
+  {
+    "start_time": "00:09:59.820",
+    "end_time": "00:10:02.210",
+    "text": "you have all the tools you need to build"
+  },
+  {
+    "start_time": "00:10:02.220",
+    "end_time": "00:10:05.210",
+    "text": "great web 3 applications and who knows"
+  },
+  {
+    "start_time": "00:10:05.220",
+    "end_time": "00:10:09.650",
+    "text": "you could be the next big hit on bass"
+  },
+  {
+    "start_time": "00:10:09.660",
+    "end_time": "00:10:12.440",
+    "text": "thank you"
+  }
+]

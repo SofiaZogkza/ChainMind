@@ -1,0 +1,757 @@
+[
+  {
+    "start_time": "00:00:01.470",
+    "end_time": "00:00:01.480",
+    "text": "if you want to become a blockchain"
+  },
+  {
+    "start_time": "00:00:01.480",
+    "end_time": "00:00:03.030",
+    "text": "developer you're in the right place"
+  },
+  {
+    "start_time": "00:00:03.040",
+    "end_time": "00:00:05.110",
+    "text": "today I'm sharing a complete blockchain"
+  },
+  {
+    "start_time": "00:00:05.120",
+    "end_time": "00:00:06.670",
+    "text": "road map I'll walk you through the"
+  },
+  {
+    "start_time": "00:00:06.680",
+    "end_time": "00:00:08.709",
+    "text": "essential skills you need the tools I"
+  },
+  {
+    "start_time": "00:00:08.719",
+    "end_time": "00:00:10.509",
+    "text": "personally recommend and how much time"
+  },
+  {
+    "start_time": "00:00:10.519",
+    "end_time": "00:00:12.270",
+    "text": "you should spend on each assuming you"
+  },
+  {
+    "start_time": "00:00:12.280",
+    "end_time": "00:00:14.589",
+    "text": "dedicate 3 to 5 hours of studying every"
+  },
+  {
+    "start_time": "00:00:14.599",
+    "end_time": "00:00:16.189",
+    "text": "day this road map should take you about"
+  },
+  {
+    "start_time": "00:00:16.199",
+    "end_time": "00:00:18.109",
+    "text": "8 to 10 months to complete let's Jump"
+  },
+  {
+    "start_time": "00:00:18.119",
+    "end_time": "00:00:18.980",
+    "text": "Right"
+  },
+  {
+    "start_time": "00:00:18.990",
+    "end_time": "00:00:21.189",
+    "text": "[Music]"
+  },
+  {
+    "start_time": "00:00:21.199",
+    "end_time": "00:00:23.630",
+    "text": "In first I want to give a quick shout"
+  },
+  {
+    "start_time": "00:00:23.640",
+    "end_time": "00:00:25.670",
+    "text": "out to our newest members Edgars"
+  },
+  {
+    "start_time": "00:00:25.680",
+    "end_time": "00:00:28.230",
+    "text": "Christian Bluff gien shales Joe thank"
+  },
+  {
+    "start_time": "00:00:28.240",
+    "end_time": "00:00:29.990",
+    "text": "you so much for joining this Channel and"
+  },
+  {
+    "start_time": "00:00:30.000",
+    "end_time": "00:00:31.830",
+    "text": "supporting me you're awesome by the way"
+  },
+  {
+    "start_time": "00:00:31.840",
+    "end_time": "00:00:33.910",
+    "text": "if you're new here welcome this channel"
+  },
+  {
+    "start_time": "00:00:33.920",
+    "end_time": "00:00:35.869",
+    "text": "is all about helping you build a strong"
+  },
+  {
+    "start_time": "00:00:35.879",
+    "end_time": "00:00:38.069",
+    "text": "foundation in coding and land your dream"
+  },
+  {
+    "start_time": "00:00:38.079",
+    "end_time": "00:00:40.430",
+    "text": "Tech job I create practical no fluff"
+  },
+  {
+    "start_time": "00:00:40.440",
+    "end_time": "00:00:42.910",
+    "text": "tutorials road maps and career advice to"
+  },
+  {
+    "start_time": "00:00:42.920",
+    "end_time": "00:00:44.790",
+    "text": "help you succeed if that sounds good hit"
+  },
+  {
+    "start_time": "00:00:44.800",
+    "end_time": "00:00:46.389",
+    "text": "subscribe and check out the other videos"
+  },
+  {
+    "start_time": "00:00:46.399",
+    "end_time": "00:00:48.790",
+    "text": "on this channel the first step to"
+  },
+  {
+    "start_time": "00:00:48.800",
+    "end_time": "00:00:50.549",
+    "text": "learning blockchain development is to"
+  },
+  {
+    "start_time": "00:00:50.559",
+    "end_time": "00:00:52.750",
+    "text": "pick up a programming language the two"
+  },
+  {
+    "start_time": "00:00:52.760",
+    "end_time": "00:00:54.869",
+    "text": "most popular languages for blockchain"
+  },
+  {
+    "start_time": "00:00:54.879",
+    "end_time": "00:00:56.990",
+    "text": "development are Python and JavaScript"
+  },
+  {
+    "start_time": "00:00:57.000",
+    "end_time": "00:00:58.590",
+    "text": "python is the easiest to learn and is"
+  },
+  {
+    "start_time": "00:00:58.600",
+    "end_time": "00:01:00.549",
+    "text": "widely used in blockchain scripting"
+  },
+  {
+    "start_time": "00:01:00.559",
+    "end_time": "00:01:02.270",
+    "text": "JavaScript is common for frontend"
+  },
+  {
+    "start_time": "00:01:02.280",
+    "end_time": "00:01:04.229",
+    "text": "development and web 3 Frameworks which"
+  },
+  {
+    "start_time": "00:01:04.239",
+    "end_time": "00:01:05.870",
+    "text": "we'll talk about later in this video if"
+  },
+  {
+    "start_time": "00:01:05.880",
+    "end_time": "00:01:07.310",
+    "text": "you're starting out stick to one"
+  },
+  {
+    "start_time": "00:01:07.320",
+    "end_time": "00:01:09.390",
+    "text": "language preferably python so you don't"
+  },
+  {
+    "start_time": "00:01:09.400",
+    "end_time": "00:01:11.149",
+    "text": "get confused after learning python"
+  },
+  {
+    "start_time": "00:01:11.159",
+    "end_time": "00:01:12.710",
+    "text": "picking up JavaScript will be much"
+  },
+  {
+    "start_time": "00:01:12.720",
+    "end_time": "00:01:15.070",
+    "text": "faster if you study and code 3 to 5"
+  },
+  {
+    "start_time": "00:01:15.080",
+    "end_time": "00:01:17.190",
+    "text": "hours a day you can learn the basics of"
+  },
+  {
+    "start_time": "00:01:17.200",
+    "end_time": "00:01:19.350",
+    "text": "either language in about 2 months now to"
+  },
+  {
+    "start_time": "00:01:19.360",
+    "end_time": "00:01:21.149",
+    "text": "help you on this journey I've created a"
+  },
+  {
+    "start_time": "00:01:21.159",
+    "end_time": "00:01:23.630",
+    "text": "free supplementary PDF that breaks down"
+  },
+  {
+    "start_time": "00:01:23.640",
+    "end_time": "00:01:25.510",
+    "text": "the specific Concepts you need to learn"
+  },
+  {
+    "start_time": "00:01:25.520",
+    "end_time": "00:01:27.550",
+    "text": "for each skill it's a great resource to"
+  },
+  {
+    "start_time": "00:01:27.560",
+    "end_time": "00:01:29.469",
+    "text": "review your progress find gaps in your"
+  },
+  {
+    "start_time": "00:01:29.479",
+    "end_time": "00:01:31.350",
+    "text": "knowledge and prepare for interviews you"
+  },
+  {
+    "start_time": "00:01:31.360",
+    "end_time": "00:01:33.310",
+    "text": "can find the link in the description Box"
+  },
+  {
+    "start_time": "00:01:33.320",
+    "end_time": "00:01:35.030",
+    "text": "by the way I have a bunch of tutorials"
+  },
+  {
+    "start_time": "00:01:35.040",
+    "end_time": "00:01:37.030",
+    "text": "on this channel and complete courses on"
+  },
+  {
+    "start_time": "00:01:37.040",
+    "end_time": "00:01:38.510",
+    "text": "my website if you're looking for"
+  },
+  {
+    "start_time": "00:01:38.520",
+    "end_time": "00:01:40.230",
+    "text": "structured learning again links are in"
+  },
+  {
+    "start_time": "00:01:40.240",
+    "end_time": "00:01:42.030",
+    "text": "the description box the next thing you"
+  },
+  {
+    "start_time": "00:01:42.040",
+    "end_time": "00:01:43.870",
+    "text": "need to learn is a version control"
+  },
+  {
+    "start_time": "00:01:43.880",
+    "end_time": "00:01:46.109",
+    "text": "system like git git is not a programming"
+  },
+  {
+    "start_time": "00:01:46.119",
+    "end_time": "00:01:48.149",
+    "text": "language it's a tool we use to track"
+  },
+  {
+    "start_time": "00:01:48.159",
+    "end_time": "00:01:50.149",
+    "text": "changes to our code and collaborate with"
+  },
+  {
+    "start_time": "00:01:50.159",
+    "end_time": "00:01:52.149",
+    "text": "others git and GitHub which is a"
+  },
+  {
+    "start_time": "00:01:52.159",
+    "end_time": "00:01:54.670",
+    "text": "platform that hosts git repositories are"
+  },
+  {
+    "start_time": "00:01:54.680",
+    "end_time": "00:01:56.670",
+    "text": "essential for every developer git has a"
+  },
+  {
+    "start_time": "00:01:56.680",
+    "end_time": "00:01:58.069",
+    "text": "ton of features but you don't need to"
+  },
+  {
+    "start_time": "00:01:58.079",
+    "end_time": "00:02:00.109",
+    "text": "know them all for everyday use think of"
+  },
+  {
+    "start_time": "00:02:00.119",
+    "end_time": "00:02:02.310",
+    "text": "it like the 8020 rule 80% of the time"
+  },
+  {
+    "start_time": "00:02:02.320",
+    "end_time": "00:02:05.190",
+    "text": "you use 20% of gits features 1 to 2"
+  },
+  {
+    "start_time": "00:02:05.200",
+    "end_time": "00:02:07.149",
+    "text": "weeks of practice is enough to get up"
+  },
+  {
+    "start_time": "00:02:07.159",
+    "end_time": "00:02:08.790",
+    "text": "and running again I have a bunch of"
+  },
+  {
+    "start_time": "00:02:08.800",
+    "end_time": "00:02:10.749",
+    "text": "tutorials on this channel and complete"
+  },
+  {
+    "start_time": "00:02:10.759",
+    "end_time": "00:02:12.550",
+    "text": "courses on my website if you prefer"
+  },
+  {
+    "start_time": "00:02:12.560",
+    "end_time": "00:02:14.390",
+    "text": "structured learning the next step is"
+  },
+  {
+    "start_time": "00:02:14.400",
+    "end_time": "00:02:16.550",
+    "text": "studying data structures and algorithms"
+  },
+  {
+    "start_time": "00:02:16.560",
+    "end_time": "00:02:18.229",
+    "text": "this is one of the topics taught to"
+  },
+  {
+    "start_time": "00:02:18.239",
+    "end_time": "00:02:20.150",
+    "text": "computer science students that a lot of"
+  },
+  {
+    "start_time": "00:02:20.160",
+    "end_time": "00:02:22.390",
+    "text": "self-taught developers Skip and is often"
+  },
+  {
+    "start_time": "00:02:22.400",
+    "end_time": "00:02:23.910",
+    "text": "asked in job interviews it's"
+  },
+  {
+    "start_time": "00:02:23.920",
+    "end_time": "00:02:25.470",
+    "text": "particularly important for blockchain"
+  },
+  {
+    "start_time": "00:02:25.480",
+    "end_time": "00:02:26.790",
+    "text": "development because in blockchain"
+  },
+  {
+    "start_time": "00:02:26.800",
+    "end_time": "00:02:28.710",
+    "text": "development every operation can have a"
+  },
+  {
+    "start_time": "00:02:28.720",
+    "end_time": "00:02:30.949",
+    "text": "cost so you have to learn how to process"
+  },
+  {
+    "start_time": "00:02:30.959",
+    "end_time": "00:02:33.070",
+    "text": "and store data efficiently and this is"
+  },
+  {
+    "start_time": "00:02:33.080",
+    "end_time": "00:02:34.869",
+    "text": "where data structures come into the play"
+  },
+  {
+    "start_time": "00:02:34.879",
+    "end_time": "00:02:36.670",
+    "text": "you have to use the right data structure"
+  },
+  {
+    "start_time": "00:02:36.680",
+    "end_time": "00:02:38.589",
+    "text": "for the right problem so make sure to"
+  },
+  {
+    "start_time": "00:02:38.599",
+    "end_time": "00:02:40.589",
+    "text": "study the classic data structures like"
+  },
+  {
+    "start_time": "00:02:40.599",
+    "end_time": "00:02:43.309",
+    "text": "arrays link lists Stacks cues and so on"
+  },
+  {
+    "start_time": "00:02:43.319",
+    "end_time": "00:02:44.990",
+    "text": "spend about a month or two on this and"
+  },
+  {
+    "start_time": "00:02:45.000",
+    "end_time": "00:02:46.630",
+    "text": "you'll be in great shape once you have a"
+  },
+  {
+    "start_time": "00:02:46.640",
+    "end_time": "00:02:48.430",
+    "text": "good grasp of blockchain fundamentals"
+  },
+  {
+    "start_time": "00:02:48.440",
+    "end_time": "00:02:50.190",
+    "text": "you're ready to learn about smart"
+  },
+  {
+    "start_time": "00:02:50.200",
+    "end_time": "00:02:52.390",
+    "text": "contracts these are programs that run on"
+  },
+  {
+    "start_time": "00:02:52.400",
+    "end_time": "00:02:54.390",
+    "text": "a blockchain like little robots that"
+  },
+  {
+    "start_time": "00:02:54.400",
+    "end_time": "00:02:56.309",
+    "text": "follow specific rules and can't be"
+  },
+  {
+    "start_time": "00:02:56.319",
+    "end_time": "00:02:58.589",
+    "text": "changed once their life now solidity is"
+  },
+  {
+    "start_time": "00:02:58.599",
+    "end_time": "00:03:00.550",
+    "text": "the most popular language for writing"
+  },
+  {
+    "start_time": "00:03:00.560",
+    "end_time": "00:03:02.670",
+    "text": "smart contracts on ethereum don't let"
+  },
+  {
+    "start_time": "00:03:02.680",
+    "end_time": "00:03:04.550",
+    "text": "the name scare you it's similar to other"
+  },
+  {
+    "start_time": "00:03:04.560",
+    "end_time": "00:03:06.190",
+    "text": "coding languages once you get the hang"
+  },
+  {
+    "start_time": "00:03:06.200",
+    "end_time": "00:03:08.550",
+    "text": "of it you can practice using remix IDE"
+  },
+  {
+    "start_time": "00:03:08.560",
+    "end_time": "00:03:09.830",
+    "text": "which is a web-based development"
+  },
+  {
+    "start_time": "00:03:09.840",
+    "end_time": "00:03:12.229",
+    "text": "environment for ethereum smart contracts"
+  },
+  {
+    "start_time": "00:03:12.239",
+    "end_time": "00:03:13.910",
+    "text": "it's great for beginners because you can"
+  },
+  {
+    "start_time": "00:03:13.920",
+    "end_time": "00:03:15.830",
+    "text": "start coding and testing your smart"
+  },
+  {
+    "start_time": "00:03:15.840",
+    "end_time": "00:03:18.270",
+    "text": "contracts immediately without extensive"
+  },
+  {
+    "start_time": "00:03:18.280",
+    "end_time": "00:03:20.229",
+    "text": "local setup once you get comfortable"
+  },
+  {
+    "start_time": "00:03:20.239",
+    "end_time": "00:03:22.869",
+    "text": "writing simple contracts with remix IDE"
+  },
+  {
+    "start_time": "00:03:22.879",
+    "end_time": "00:03:24.630",
+    "text": "then I would recommend learning hard hat"
+  },
+  {
+    "start_time": "00:03:24.640",
+    "end_time": "00:03:26.550",
+    "text": "for more professional and Enterprise"
+  },
+  {
+    "start_time": "00:03:26.560",
+    "end_time": "00:03:28.830",
+    "text": "level workflows it's a popular local"
+  },
+  {
+    "start_time": "00:03:28.840",
+    "end_time": "00:03:30.509",
+    "text": "development environment for ethereum"
+  },
+  {
+    "start_time": "00:03:30.519",
+    "end_time": "00:03:32.589",
+    "text": "smart contracts it gives you a framework"
+  },
+  {
+    "start_time": "00:03:32.599",
+    "end_time": "00:03:35.149",
+    "text": "and a set of tools to build test deploy"
+  },
+  {
+    "start_time": "00:03:35.159",
+    "end_time": "00:03:36.990",
+    "text": "and debug smart contracts more"
+  },
+  {
+    "start_time": "00:03:37.000",
+    "end_time": "00:03:38.789",
+    "text": "effectively spend about a month or two"
+  },
+  {
+    "start_time": "00:03:38.799",
+    "end_time": "00:03:40.830",
+    "text": "building small projects like a basic"
+  },
+  {
+    "start_time": "00:03:40.840",
+    "end_time": "00:03:43.390",
+    "text": "token or nft now once you build and"
+  },
+  {
+    "start_time": "00:03:43.400",
+    "end_time": "00:03:45.750",
+    "text": "deploy a smart contract to a blockchain"
+  },
+  {
+    "start_time": "00:03:45.760",
+    "end_time": "00:03:47.630",
+    "text": "network then you need to allow users to"
+  },
+  {
+    "start_time": "00:03:47.640",
+    "end_time": "00:03:49.630",
+    "text": "interact with it and this is where dap"
+  },
+  {
+    "start_time": "00:03:49.640",
+    "end_time": "00:03:51.949",
+    "text": "or decentralized application development"
+  },
+  {
+    "start_time": "00:03:51.959",
+    "end_time": "00:03:54.149",
+    "text": "comes into play a Dap is basically an"
+  },
+  {
+    "start_time": "00:03:54.159",
+    "end_time": "00:03:55.990",
+    "text": "application that looks and feels like a"
+  },
+  {
+    "start_time": "00:03:56.000",
+    "end_time": "00:03:58.149",
+    "text": "regular web or mobile app but instead of"
+  },
+  {
+    "start_time": "00:03:58.159",
+    "end_time": "00:04:00.270",
+    "text": "having a single company server at the"
+  },
+  {
+    "start_time": "00:04:00.280",
+    "end_time": "00:04:02.309",
+    "text": "back end it uses a blockchain network"
+  },
+  {
+    "start_time": "00:04:02.319",
+    "end_time": "00:04:04.710",
+    "text": "for its core operations now to build a"
+  },
+  {
+    "start_time": "00:04:04.720",
+    "end_time": "00:04:06.270",
+    "text": "dab you have to learn a front and"
+  },
+  {
+    "start_time": "00:04:06.280",
+    "end_time": "00:04:08.429",
+    "text": "framework for building user interfaces"
+  },
+  {
+    "start_time": "00:04:08.439",
+    "end_time": "00:04:10.270",
+    "text": "we have a few tools here like react"
+  },
+  {
+    "start_time": "00:04:10.280",
+    "end_time": "00:04:12.429",
+    "text": "angular and view but react is the most"
+  },
+  {
+    "start_time": "00:04:12.439",
+    "end_time": "00:04:13.910",
+    "text": "popular tool for building user"
+  },
+  {
+    "start_time": "00:04:13.920",
+    "end_time": "00:04:15.789",
+    "text": "interfaces now to learn react you need"
+  },
+  {
+    "start_time": "00:04:15.799",
+    "end_time": "00:04:17.550",
+    "text": "to learn JavaScript and ideally"
+  },
+  {
+    "start_time": "00:04:17.560",
+    "end_time": "00:04:19.390",
+    "text": "typescript which is a super cell of"
+  },
+  {
+    "start_time": "00:04:19.400",
+    "end_time": "00:04:21.550",
+    "text": "JavaScript that is widely used in react"
+  },
+  {
+    "start_time": "00:04:21.560",
+    "end_time": "00:04:23.430",
+    "text": "projects these days you can learn the"
+  },
+  {
+    "start_time": "00:04:23.440",
+    "end_time": "00:04:25.590",
+    "text": "essence of JavaScript and typescript in"
+  },
+  {
+    "start_time": "00:04:25.600",
+    "end_time": "00:04:27.310",
+    "text": "about 2 months and then you need another"
+  },
+  {
+    "start_time": "00:04:27.320",
+    "end_time": "00:04:29.230",
+    "text": "month or two to learn react also you"
+  },
+  {
+    "start_time": "00:04:29.240",
+    "end_time": "00:04:31.590",
+    "text": "should get familiar with web3 libraries"
+  },
+  {
+    "start_time": "00:04:31.600",
+    "end_time": "00:04:34.430",
+    "text": "like web3js or ether's JS for connecting"
+  },
+  {
+    "start_time": "00:04:34.440",
+    "end_time": "00:04:35.909",
+    "text": "your frontend application to the"
+  },
+  {
+    "start_time": "00:04:35.919",
+    "end_time": "00:04:38.070",
+    "text": "blockchain so if you dedicate a few"
+  },
+  {
+    "start_time": "00:04:38.080",
+    "end_time": "00:04:40.310",
+    "text": "hours every day and follow this road map"
+  },
+  {
+    "start_time": "00:04:40.320",
+    "end_time": "00:04:42.150",
+    "text": "you'll have the necessary knowledge to"
+  },
+  {
+    "start_time": "00:04:42.160",
+    "end_time": "00:04:44.110",
+    "text": "apply for an entry-level blockchain"
+  },
+  {
+    "start_time": "00:04:44.120",
+    "end_time": "00:04:46.590",
+    "text": "developer job in about 8 to 10 months if"
+  },
+  {
+    "start_time": "00:04:46.600",
+    "end_time": "00:04:47.950",
+    "text": "you have any questions please let me"
+  },
+  {
+    "start_time": "00:04:47.960",
+    "end_time": "00:04:49.909",
+    "text": "know in the comments and I'll do my best"
+  },
+  {
+    "start_time": "00:04:49.919",
+    "end_time": "00:04:51.950",
+    "text": "to answer you right here or in my future"
+  },
+  {
+    "start_time": "00:04:51.960",
+    "end_time": "00:04:53.870",
+    "text": "videos if you enjoy this video please"
+  },
+  {
+    "start_time": "00:04:53.880",
+    "end_time": "00:04:55.550",
+    "text": "give it a like And subscribe for more"
+  },
+  {
+    "start_time": "00:04:55.560",
+    "end_time": "00:04:59.000",
+    "text": "useful content"
+  }
+]
