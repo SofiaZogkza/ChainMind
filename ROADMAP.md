@@ -2,7 +2,7 @@
 
 This roadmap outlines the planned features, improvements, and long-term vision for ChainMind, the multimodal AI tutor that learns from YouTube videos and answers questions using Retrieval-Augmented Generation, conversational memory, and agent reasoning.
 
-### 📌 Phase 1 — Foundation (Completed)
+# 📌 Phase 1 — Foundation (Completed)
 
 Establish the core pipeline and minimal viable product.
 
@@ -27,7 +27,7 @@ Establish the core pipeline and minimal viable product.
 
 ---
 
-### 📌 Phase 2 — Improvements & Stability (Current Focus)
+# 📌 Phase 2 — Improvements & Stability (Current Focus)
 #### 🔧 1. Codebase Refactoring
 
 Move notebook logic into a clean src/chainmind/ module
@@ -57,7 +57,7 @@ Add Tutorials ("Add a new Youtube video"...)
 
 ---
 
-### 📌  Phase 3 — Multimodal Upgrade
+# 📌  Phase 3 — Multimodal Upgrade
 
 #### 1. Audio & Video Features
 
@@ -77,7 +77,7 @@ Add Tutorials ("Add a new Youtube video"...)
 
 ---
 
-### 📌 Phase 4 — AI Agent Evolution
+# 📌 Phase 4 — AI Agent Evolution
 
 #### 1. Smarter Reasoning
 
@@ -155,7 +155,7 @@ Deploy on:
 ---
 ---
 
-##  📌  Hallucination Detection & Evaluation
+#  📌  Phase 7 - Hallucination Detection & Evaluation
 
 ### 🎯 Goals  
 Improve answer reliability by ensuring the chatbot’s responses are grounded in retrieved video context, reducing unsupported claims and inconsistencies.
