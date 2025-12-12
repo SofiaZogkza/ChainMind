@@ -42,11 +42,20 @@ Run the `notebooks/main_phase_2_rag.ipynb`(✔ Chunks - Embeds - Upsert to Pinec
 Run the `notebooks/main_phase_3_QA.ipynb` (✔ Tests RAG pipeline ✔ Tests agent logic ✔ Verifies follow-up memory behavior)
 
 ### 6. Run the Chatbot
+
+Option 1 - Gradio:
+
 `python app/gradio_app2.py`
 
 The app will open locally at http://127.0.0.1:7860
 
 You will also get a public shareable link via Gradio
+
+Option 2 Streamlit:
+
+`venv/bin/python -m streamlit run app/app_streamlit.py`
+
+The app will load automatically locally in `http://localhost:8502/`
 
 ---
 
