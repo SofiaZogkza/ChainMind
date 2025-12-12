@@ -51,7 +51,7 @@ Add Tutorials ("Add a new Youtube video"...)
 
 #### 🎨 4. UI / UX Enhancements
 
-- Better Gradio layout. Maybe proper UI.
+- Better Gradio layout. Try out the Streamlit. Maybe proper UI.
 - Add video selector or dataset info
 - Add response categories (RAG / Memory / Agent / Fallback indicator)
 
