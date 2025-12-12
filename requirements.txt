@@ -15,3 +15,5 @@ python-dotenv==1.2.1
 requests==2.32.5
 tqdm==4.67.1
 gradio
+streamlit==1.52.1
+watchdog==6.0.0
