@@ -117,7 +117,7 @@ Add PyPI readme + metadata
 #### 🌍 3. Cloud Deployment
 
 Deploy on:
-- AWS Lambda + API Gateway
+- AWS Lambda + API Gateway | Maybe Snowflake
 - HuggingFace Spaces
 
 #### 📊 4. Monitoring
